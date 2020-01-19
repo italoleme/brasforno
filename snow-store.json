@@ -1,0 +1,22 @@
+[
+   {  
+       "id": "National Employment Law Project",
+       "objects":[
+         {
+            "source":"National Employment Law Project",
+            "productText" : "Text text text text text text text",
+            "image" : "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-00.png"
+         }
+      ]
+   },
+   {  
+       "id": "Congressional Budget Office",
+       "objects":[
+         {
+            "source":"Congressional Budget Office",
+            "productText" : "Text text text text text text text",
+            "image" : ""
+         }
+      ]
+   }
+]
