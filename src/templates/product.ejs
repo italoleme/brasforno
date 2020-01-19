@@ -28,9 +28,16 @@
       <div class="_container flex flex-wrap">
         <% for(var i = 0; i < jData01.objects.length; i++){ %>
           <div class="w-50"></div>
-          <img class="w-50" src="<%= jData01.objects[i].image %>" alt="<%= jData01.objects[i].source %>">
+          <div class="w-50">           
+            <img class="w-100 h-auto" src="<%= jData01.objects[i].image %>" alt="<%= jData01.objects[i].source %>">
+          </div>
         <% } %>
       </div>
+    </section>
+    <section class="_bra-productCarrousel">
+      <% for(var i=0; i < jData01.objects.length; i++){%>   
+        <p><%= jData01.objects[i].image %></p>
+      <% } %>
     </section>
 </main>
 <%-include('partials/footer') -%>
