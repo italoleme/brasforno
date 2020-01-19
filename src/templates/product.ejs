@@ -34,15 +34,27 @@
         <% } %>
       </div>
     </section>
-    <section class="_bra-productCarrousel">
-      <% for(var i=0; i < jData01.objects.length; i++){%>   
-        <p><%= jData01.objects[i].image %></p>
-      <% } %>
+    <section>
+      <div class="_container">
+        <div class="_bra-productCarrousel">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg" alt="National Employment Law Project">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg" alt="National Employment Law Project">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg" alt="National Employment Law Project">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg" alt="National Employment Law Project">  
+        </div>
+        <nav class="_bra-nav-productCarrousel">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg" alt="National Employment Law Project">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg" alt="National Employment Law Project">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg" alt="National Employment Law Project">
+          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg" alt="National Employment Law Project">            
+        </nav>
+      </div>
     </section>
 </main>
 <%-include('partials/footer') -%>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
 <script src="../javascript/bra-main.js"></script>
+<script src="../javascript/bra-product.js"></script>
 </body>
 </html>

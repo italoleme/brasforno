@@ -1,7 +1,7 @@
-var tabletWidth = 768;
-var isMobileWidth = window.matchMedia("(max-width: " + (tabletWidth - 1) + "px)").matches;
+let tabletWidth = 768,
+    isMobileWidth = window.matchMedia("(max-width: " + (tabletWidth - 1) + "px)").matches,
 
-var bras = {
+bras = {
     init: function() {
         bras.hover();
         bras.nav();
