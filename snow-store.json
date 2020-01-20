@@ -9,7 +9,7 @@
             "productCarrousel" : [
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg",
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg",
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg",                  
+               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg",
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg"
             ]       
          }
@@ -21,7 +21,13 @@
          {
             "source":"Congressional Budget Office",
             "productText" : "Text text text text text text text",
-            "image" : ""
+            "image" : "",
+            "productCarrousel" : [
+               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg",
+               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg",
+               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg",
+               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg"
+            ]    
          }
       ]
    }

@@ -14,14 +14,15 @@ var gulp = require('gulp'),
 
 gulp.task('ejs', done => {
     var jsonData01 = './snow-store.json',
-            json01 = JSON.parse( fs.readFileSync( jsonData01,'utf8' ) );
+        json01 = JSON.parse( fs.readFileSync( jsonData01,'utf8' ) );
 
     for( var i = 0; i < json01.length; i++ ) {
         var fileName = json01[i].id.replace(/ +/g, '-').toLowerCase();
 
+
         gulp.src('src/templates/**/product.ejs')
             .pipe(ejs({
-                jData01:json01[i]
+                jData01:json01[i], 
             },))
 
             .pipe(rename(fileName + '.html'))

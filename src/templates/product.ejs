@@ -37,16 +37,18 @@
     <section>
       <div class="_container">
         <div class="_bra-productCarrousel">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg" alt="National Employment Law Project">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg" alt="National Employment Law Project">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg" alt="National Employment Law Project">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg" alt="National Employment Law Project">  
+          <% for(var i = 0; i < jData01.objects.length; i++){ %>     
+            <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
+              <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">
+            <% } %>
+          <% } %> 
         </div>
         <nav class="_bra-nav-productCarrousel">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg" alt="National Employment Law Project">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg" alt="National Employment Law Project">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg" alt="National Employment Law Project">
-          <img src="../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg" alt="National Employment Law Project">            
+          <% for(var i = 0; i < jData01.objects.length; i++){ %>     
+            <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
+              <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">
+            <% } %>
+          <% } %>           
         </nav>
       </div>
     </section>
