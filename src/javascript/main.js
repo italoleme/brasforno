@@ -1,4 +1,4 @@
-let tabletWidth = 768,
+var tabletWidth = 768,
     isMobileWidth = window.matchMedia("(max-width: " + (tabletWidth - 1) + "px)").matches,
 
 bras = {

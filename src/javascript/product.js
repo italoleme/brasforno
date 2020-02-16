@@ -1,4 +1,4 @@
-let brasProduct = {
+var brasProduct = {
     init: function(){
         brasProduct.slickNav();
     },
