@@ -1,6 +1,9 @@
 *{
     font-family: 'Roboto', sans-serif;  
 }
+h3 {
+    font-size: 1em;
+}
 ._container {
     margin-left: auto;
     margin-right: auto;
@@ -85,7 +88,7 @@
                     }                    
                 }
                 &:after{
-                    background-color: #333333;
+                    background-color: #fcea21;
                     content: '';
                     height: 2px;
                     -webkit-transition: all .4s cubic-bezier(.4,0,.2,1);
@@ -226,6 +229,9 @@
                     }
                 }
             }
+        }
+        @media (max-width: 960px) {
+            margin-top: 70px;
         }
     }
     &-socialmedia{
