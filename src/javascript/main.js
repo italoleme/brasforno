@@ -34,7 +34,8 @@ bras = {
     bannerPrincipal: function(){
         $('._bra-banner-principal').slick({
             arrows: false,
-            dots: true
+            dots: true,
+            autoplay: true
         });
     },
     mobileNav: function(){
