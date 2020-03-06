@@ -1,17 +1,28 @@
 [
    {  
-       "id": "National Employment Law Project",
+       "id": "PNOVA",
        "objects":[
          {
-            "source":"National Employment Law Project",
-            "productText" : "Text text text text text text text",
+            "source":"PNOVA",
+            "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM.",
             "image" : "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-00.png",
             "productCarrousel" : [
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg",
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg",
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg",
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg"
-            ]       
+            ],
+            "description": [
+               "De 01 a 04 câmaras",
+               "*De 04 a 12 assadeiras, até 60x80",
+               "*Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",
+               "*Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",
+               "*Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",
+               "*Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",
+               "*Alta performance de cozimento com baixo consumo de energia",
+               "*Revestidos externamente em aço inoxidável ( série )",
+               "*Portas em vidro temperado (série), Portas em aço inox (opcional)"
+            ] 
          }
       ]
    },
@@ -27,7 +38,8 @@
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg",
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg",
                "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg"
-            ]    
+            ],
+            "description": []
          }
       ]
    }

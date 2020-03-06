@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Brasforno foi fundada em 1992 - (11) 4705-9555 - R. Rio de Janeiro, 834 - 06530-020 - Chácara do Solar I – (Fazendinha) - Santana de Parnaíba – SP</title>
+    <title><% for( var i = 0; i < jData01.objects.length; i++ ) { %> <%= jData01.objects[i].source %> <% } %></title>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
@@ -24,11 +24,17 @@
           <% } %>  
       </div>            
     </section>
-    <section class="_bra-product-image">
+    <section class="_bra-product">
       <div class="_container flex flex-wrap">
         <% for(var i = 0; i < jData01.objects.length; i++){ %>
-          <div class="w-50"></div>
-          <div class="w-50">           
+          <div class="w-50">
+              <ul>
+                <% for(var i2 = 0; i2 < jData01.objects[i].description.length; i2++){ %>    
+                  <li><%= jData01.objects[i].description[i2] %></li>
+                <% } %>
+              </ul>   
+          </div>
+          <div class="w-50 _bra-product-image">           
             <img class="w-100 h-auto" src="<%= jData01.objects[i].image %>" alt="<%= jData01.objects[i].source %>">
           </div>
         <% } %>
@@ -43,7 +49,7 @@
             <% } %>
           <% } %> 
         </div>
-        <nav class="_bra-nav-productCarrousel">
+        <nav class="_bra-nav-productCarrousel pt5-ns pb5-ns">
           <% for(var i = 0; i < jData01.objects.length; i++){ %>     
             <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
               <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">
