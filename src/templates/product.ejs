@@ -10,31 +10,31 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../css/bra-app.min.css">
 </head>
-<body>
+<body class="_bra-product">
 <%- include('partials/header') -%>
 <main> 
-    <section class="specBox bg-gray pt4 pb5">            
+    <section class="_bra-product-banner bg-gray pt4 pb5">            
       <div class="_container">
           <% for( var i = 0; i < jData01.objects.length; i++ ) { %>
-              <ul class="list ma0 pa0">
+              <ul class="list ma0 pa0 tl-l tc">
                   <li><strong class="white f3 ttu"><%= jData01.objects[i].source %></strong></li>
-                  <li><span class="_bra-line mv3 db bg-yellow"></span></li>
+                  <li><span class="_bra-line center ml0-l mv3 db bg-yellow"></span></li>
                   <li><p class="white ma0"><%= jData01.objects[i].productText %></p></li>
               </ul>
           <% } %>  
       </div>            
     </section>
-    <section class="_bra-product">
-      <div class="_container flex flex-wrap">
+    <section class="_bra-product-desc">
+      <div class="_container flex flex-wrap-ns flex-column-reverse flex-row-l">
         <% for(var i = 0; i < jData01.objects.length; i++){ %>
-          <div class="w-50">
+          <div class="w-50 pt5-l">
               <ul>
                 <% for(var i2 = 0; i2 < jData01.objects[i].description.length; i2++){ %>    
                   <li><%= jData01.objects[i].description[i2] %></li>
                 <% } %>
               </ul>   
           </div>
-          <div class="w-50 _bra-product-image">           
+          <div class="w-50-l w-100 _bra-product-image">           
             <img class="w-100 h-auto" src="<%= jData01.objects[i].image %>" alt="<%= jData01.objects[i].source %>">
           </div>
         <% } %>
@@ -49,12 +49,16 @@
             <% } %>
           <% } %> 
         </div>
-        <nav class="_bra-nav-productCarrousel pt5-ns pb5-ns">
-          <% for(var i = 0; i < jData01.objects.length; i++){ %>     
-            <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
-              <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">
-            <% } %>
-          <% } %>           
+        <nav class="pt5-l pb5-l pt3 pb3">
+          <ul class="_bra-productCarrousel-nav">
+            <% for(var i = 0; i < jData01.objects.length; i++){ %>     
+              <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
+                <li class="relative">
+                  <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">
+                </li>
+              <% } %>
+            <% } %>  
+          </ul>         
         </nav>
       </div>
     </section>

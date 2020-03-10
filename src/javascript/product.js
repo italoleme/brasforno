@@ -7,9 +7,9 @@ var brasProduct = {
             slidesToShow: 1,
             slidesToScroll: 1,
             arrows: false,
-            asNavFor : '._bra-nav-productCarrousel'
+            asNavFor : '._bra-productCarrousel-nav'
         });
-        $('._bra-nav-productCarrousel').slick({
+        $('._bra-productCarrousel-nav').slick({
             slidesToShow: 4,
             slidesToScroll: 4,
             asNavFor : '._bra-productCarrousel',
