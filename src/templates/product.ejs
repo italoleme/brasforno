@@ -42,7 +42,7 @@
     </section>
     <section>
       <div class="_container">
-        <div class="_bra-productCarrousel pl0 absolute">
+        <div class="_bra-productCarrousel absolute">
           <% for(var i = 0; i < jData01.objects.length; i++){ %>     
             <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
               <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">
@@ -50,7 +50,7 @@
           <% } %> 
         </div>
         <nav class="pt5-l pb5-l pt3 pb3">
-          <ul class="_bra-productCarrousel-nav">
+          <ul class="_bra-productCarrousel-nav pl0">
             <% for(var i = 0; i < jData01.objects.length; i++){ %>     
               <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
                 <li class="relative">
