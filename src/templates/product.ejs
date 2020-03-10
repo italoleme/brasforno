@@ -27,7 +27,7 @@
     <section class="_bra-product-desc">
       <div class="_container flex flex-wrap-ns flex-column-reverse flex-row-l">
         <% for(var i = 0; i < jData01.objects.length; i++){ %>
-          <div class="w-50 pt5-l">
+          <div class="w-50-l w-100 pt5-l">
               <ul>
                 <% for(var i2 = 0; i2 < jData01.objects[i].description.length; i2++){ %>    
                   <li><%= jData01.objects[i].description[i2] %></li>
@@ -42,7 +42,7 @@
     </section>
     <section>
       <div class="_container">
-        <div class="_bra-productCarrousel">
+        <div class="_bra-productCarrousel pl0 absolute">
           <% for(var i = 0; i < jData01.objects.length; i++){ %>     
             <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
               <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">

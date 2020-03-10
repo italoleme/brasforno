@@ -6,7 +6,7 @@ var brasProduct = {
         $('._bra-productCarrousel').slick({
             slidesToShow: 1,
             slidesToScroll: 1,
-            arrows: false,
+            arrows: true,
             asNavFor : '._bra-productCarrousel-nav'
         });
         $('._bra-productCarrousel-nav').slick({
@@ -14,6 +14,9 @@ var brasProduct = {
             slidesToScroll: 4,
             asNavFor : '._bra-productCarrousel',
             focusOnSelect: true
+        });
+        $('._bra-productCarrousel-nav li').on('click', function(){
+            $('._bra-productCarrousel').addClass('_active');
         });
     }
 }

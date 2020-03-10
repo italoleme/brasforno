@@ -298,7 +298,11 @@ h3 {
         }
     }
     &-productCarrousel{
-        display: none;
+        overflow: hidden;
+        height: 0;
+        &._active{
+            height: auto;
+        }
         &-nav{
             li {
                 cursor: pointer;
