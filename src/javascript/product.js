@@ -1,6 +1,7 @@
 var brasProduct = {
     init: function(){
         brasProduct.slickNav();
+        //brasProduct.productCarrousel();
     },
     slickNav: function(){
         $('._bra-productCarrousel').slick({
@@ -15,6 +16,8 @@ var brasProduct = {
             asNavFor : '._bra-productCarrousel',
             focusOnSelect: true
         });
+    },
+    productCarrousel: function(){        
         $('._bra-productCarrousel-nav li').on('click', function(){
             $('._bra-productCarrousel').addClass('_active');
         });

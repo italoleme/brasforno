@@ -1,46 +1,47 @@
 [
    {  
-       "id": "PNOVA",
-       "objects":[
-         {
-            "source":"PNOVA",
-            "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM.",
-            "image" : "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-00.png",
-            "productCarrousel" : [
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg",
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg",
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg",
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg"
-            ],
-            "description": [
-               "De 01 a 04 câmaras",
-               "De 04 a 12 assadeiras, até 60x80",
-               "Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",
-               "Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",
-               "Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",
-               "Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",
-               "Alta performance de cozimento com baixo consumo de energia",
-               "Revestidos externamente em aço inoxidável ( série )",
-               "Portas em vidro temperado (série), Portas em aço inox (opcional)"
-            ] 
-         }
-      ]
-   },
-   {  
-       "id": "Congressional Budget Office",
-       "objects":[
-         {
-            "source":"Congressional Budget Office",
-            "productText" : "Text text text text text text text",
-            "image" : "",
-            "productCarrousel" : [
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-01.jpg",
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-02.jpg",
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-03.jpg",
-               "../image/pnova-ele-4.2-porta-vidro-inv-125-19gimp-04.jpg"
-            ],
-            "description": []
-         }
-      ]
-   }
+      "id": "Pnova",
+      "objects":[
+        {
+           "source":"Pnova",
+           "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+           "image" : "../image/fornos/fornos-de-lastro/pnova/BPN 4.1- PORTA DE VIDRO.png",
+           "breadcrumb" : [
+              "fornos",
+              "fornos-de-lastro",
+              "pnova"
+           ],
+           "productCarrousel" : [
+              "../image/fornos/fornos-de-lastro/pnova/BPN 4.1- PORTA DE VIDRO.png",
+              "../image/fornos/fornos-de-lastro/pnova/BPN 4.2- PORTA DE VIDRO.png",
+              "../image/fornos/fornos-de-lastro/pnova/BPN 4.3- PORTA DE VIDRO.png",
+              "../image/fornos/fornos-de-lastro/pnova/BPN 4.4- PORTA DE VIDRO.png"
+           ],
+           "description": [
+               "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+               "* De 01 a 04 câmaras",               
+               "* De 04 a 12 assadeiras, até 60x80",               
+               "* Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",               
+               "* Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",               
+               "* Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",               
+               "* Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",               
+               "*Alta performance de cozimento com baixo consumo de energia",               
+               "* Revestidos externamente em aço inoxidável ( série )",               
+               "* Portas em vidro temperado (série), Portas em aço inox (opcional)"
+           ],
+           "specification" : [
+               "Especificações técnicas",
+               "Medidas Externas (mm):",               
+               "Módulo : 1900(larg) x 2300(prof)x 400(alt) – 04 assadeiras",               
+               "Testeira : 1900(larg) x 2300(prof)x 180(alt)",               
+               "Conj pés: 1900(larg) x 2300(prof)x 4.2(570) 4.3(470) 4.4(270)alt",               
+               "Medidas Internas (mm):",               
+               "Módulo: 1240(larg)x1680(comp) x 200(alt) 04assad",               
+               "1240(larg)x2480(comp) x 200(alt) 06assad",               
+               "Numero de camaras: 01 a 04 sobrepostas",               
+               "Mais especificações, entrar em contato com nossa área técnica."
+           ]
+        }
+     ]
+  }
 ]

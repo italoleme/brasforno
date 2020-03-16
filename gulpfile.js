@@ -51,7 +51,7 @@ gulp.task('connect', function() {
 });
 
 gulp.task('image', function () {
-    gulp.src(['src/image/product/*','src/image/banner/*'])
+    gulp.src(['src/image/product/**/*','src/image/banner/*'])
       .pipe(image())
       .pipe(gulp.dest('dist/image/'));
 });
