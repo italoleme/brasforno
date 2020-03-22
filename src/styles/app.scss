@@ -365,11 +365,11 @@ h3 {
             }
         }
         .slick-next {
-            right: 0;
+            right: 25px;
             transform: rotate(-180deg);
         }
         .slick-prev {
-            left: 0;
+            left: 25px;
         }
         .slick-track {
             position: relative;
@@ -398,10 +398,14 @@ h3 {
         background-size: cover;
     }
     &-close {
+        display: none;
         height: 20px;
         width: 20px;
         top: 25px;
         right: 25px;
+        &._active{
+            display: block;
+        }
     }
 }
 .breadcrumb li:not(:last-child):after {
