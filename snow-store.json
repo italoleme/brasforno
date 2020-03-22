@@ -5,17 +5,18 @@
         {
            "source":"Pnova",
            "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
-           "image" : "../image/fornos/fornos-de-lastro/pnova/BPN 4.1- PORTA DE VIDRO.png",
+           "image" : "image/fornos/fornos-de-lastro/pnova/BPN 4 PORTA DE VIDRO ISO .png",
            "breadcrumb" : [
+              "home",
               "fornos",
               "fornos-de-lastro",
               "pnova"
            ],
            "productCarrousel" : [
-              "../image/fornos/fornos-de-lastro/pnova/BPN 4.1- PORTA DE VIDRO.png",
-              "../image/fornos/fornos-de-lastro/pnova/BPN 4.2- PORTA DE VIDRO.png",
-              "../image/fornos/fornos-de-lastro/pnova/BPN 4.3- PORTA DE VIDRO.png",
-              "../image/fornos/fornos-de-lastro/pnova/BPN 4.4- PORTA DE VIDRO.png"
+              "image/fornos/fornos-de-lastro/pnova/BPN 4.1- PORTA DE VIDRO.png",
+              "image/fornos/fornos-de-lastro/pnova/BPN 4.2- PORTA DE VIDRO.png",
+              "image/fornos/fornos-de-lastro/pnova/BPN 4.3- PORTA DE VIDRO.png",
+              "image/fornos/fornos-de-lastro/pnova/BPN 4.4- PORTA DE VIDRO.png"
            ],
            "description": [
                "Fornos modulares elétricos com tecnologia ECO SYSTEM",
@@ -30,7 +31,6 @@
                "* Portas em vidro temperado (série), Portas em aço inox (opcional)"
            ],
            "specification" : [
-               "Especificações técnicas",
                "Medidas Externas (mm):",               
                "Módulo : 1900(larg) x 2300(prof)x 400(alt) – 04 assadeiras",               
                "Testeira : 1900(larg) x 2300(prof)x 180(alt)",               
@@ -43,5 +43,512 @@
            ]
         }
      ]
-  }
+  },
+  {  
+      "id": "Pnova Compact",
+      "objects":[
+         {
+            "source":"Pnova Compact",
+            "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+            "image" : "image/fornos/fornos-de-lastro/pnova-compact/BPN 1.3 COMPACT ISO .png",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "fornos-de-lastro",
+               "pnova-compact"
+            ],
+            "productCarrousel" : [
+               "image/fornos/fornos-de-lastro/pnova-compact/BPN 1.1 COMPACT.png",
+               "image/fornos/fornos-de-lastro/pnova-compact/BPN 1.2 COMPACT.png",
+               "image/fornos/fornos-de-lastro/pnova-compact/BPN 2.1 COMPACT.png",
+               "image/fornos/fornos-de-lastro/pnova-compact/BPN 2.2 COMPACT.png"
+            ],
+            "description": [
+                  "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+                  "* De 01 a 04 câmaras",               
+                  "* De 04 a 12 assadeiras, até 60x80",               
+                  "* Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",               
+                  "* Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",               
+                  "* Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",               
+                  "* Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",               
+                  "*Alta performance de cozimento com baixo consumo de energia",               
+                  "* Revestidos externamente em aço inoxidável ( série )",               
+                  "* Portas em vidro temperado (série), Portas em aço inox (opcional)"
+            ],
+            "specification" : [
+                  "Medidas Externas (mm):", 
+                  "01assad 60x80 ou 02 assad 60x40",
+                  "Módulo : 1280(larg)x880(comp)x400(alt)",
+                  "Testeira : 1280(larg)x880(comp)x150(alt)",
+                  "Conj pés: 1280(larg)x880(comp)x 1.1 (670) 1.2(570) 1.3(470) 1.4(270)alt",
+                  "02assad 60x80 ou 04 assad 60x40",
+                  "Módulo : 1700(larg)x1300(comp)x400(alt)",
+                  "Testeira : 1700(larg)x1300(comp)x150(alt)",
+                  "Conj pés: 1700(larg)x1300(comp)x 2.1 (670) 2.2(570) 2.3(470) 2.4(270)alt",
+                  "Numero de camaras: 01 a 04 sobrepostas",            
+                  "Mais especificações, entrar em contato com nossa área técnica."         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "Versa Compact Eletrico",
+      "objects":[
+         {
+            "source":"Versa Compact Eletrico",
+            "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+            "image" : "image/fornos/fornos-de-lastro/versa-eletrico/1.3 ISO.png",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "fornos-de-lastro",
+               "versa-eletrico"
+            ],
+            "productCarrousel" : [
+               "image/fornos/fornos-de-lastro/versa-eletrico/1.1.png",
+               "image/fornos/fornos-de-lastro/versa-eletrico/1.2.png",
+               "image/fornos/fornos-de-lastro/versa-eletrico/2.1.png",
+               "image/fornos/fornos-de-lastro/versa-eletrico/2.2.png"
+            ],
+            "description": [
+               "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+               "FORNOS ELETRICOS ALTA TEMPERATURA 400 GRAUS",
+               "* De 01 a 04 câmaras ÉLETRICOS",
+               "* De 01 a 02 PIZZAS OU 20 A 40 SALGADOS",
+               "* Painéis inteligentes Digital  PARA ALTA TEMPERATURA (série), com sistema ECO SYSTEM",
+               "* Resistencias com fio niquel cromo 80-20",
+               "* Excelente dupla isolação térmica com lã de FIBRA cerâmica e lã de rocha",
+               "*Alta performance de cozimento com baixo consumo de energia",
+               "* Revestidos externamente em aço inoxidável ( série ) ,frente exclusiva em aço inoxidável colorizado (preto padrão ),diversas cores",
+               "* Portas em vidro temperado (série)",              
+               
+               "Numero de camaras: 01 a 04 sobrepostas",               
+               
+               "Mais especificações, entrar em contato com nossa área técnica."           
+            ],
+            "specification" : [
+                  ""         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "Versa Gas",
+      "objects":[
+         {
+            "source":"Versa Compact Eletrico",
+            "productText" : "Fornos modulares gás com tecnologia AQUECIMENTO PATENTEADO",
+            "image" : "image/fornos/fornos-de-lastro/versa-gas/1.3 ISO.png",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "fornos-de-lastro",
+               "versa-gas"
+            ],
+            "productCarrousel" : [
+               "image/fornos/fornos-de-lastro/versa-gas/1.1.png",
+               "image/fornos/fornos-de-lastro/versa-gas/1.2.png",
+               "image/fornos/fornos-de-lastro/versa-gas/2.1.png",
+               "image/fornos/fornos-de-lastro/versa-gas/2.2.png"
+            ],
+            "description": [
+               "Fornos modulares gás com tecnologia AQUECIMENTO PATENTEADO",
+               "FORNOS GÁS ALTA TEMPERATURA 400 GRAUS",
+               "* De 01 a 03 câmaras GÁS",
+               "* De 01 a 02 assadeiras 60x80",
+               "* Painel inteligente Digital (série)",
+               "* Sistema de portas com abertura para frente",
+               "* Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",
+               "* Sistema patenteado de aquecimento através de queimadores no interior das camaras.",
+               "* Excelente dupla isolação térmica com lã de virdo cerâmica e lã de rocha",
+               "*Alta performace de cozimento com baixo consumo de energia",
+               "* Revestidos em aço inoxidável ( série ),frente exclusiva em aço inoxidável colorido,diversas cores",
+               "* Portas em vidro temperado (série)"         
+            ],
+            "specification" : [
+                  "GÁS",
+                  
+                  "Medidas Externas (mm):",
+                  
+                  "01assad 60x80 ou 02 assad 60x40",
+                  
+                  "Módulo : 1180(larg)x880(comp)x440(alt)",
+                  "Testeira : 1180(larg)x880(comp)x150(alt)",
+                  "Conj pés: 1180(larg)x880(comp)x 1.1 (670) 1.2(570) 1.3(470)",
+                  
+                  "02assad 60x80 ou 04 assad 60x40",
+                  
+                  "Módulo : 1380(larg)x1300(comp)x440(alt)",
+                  "Testeira : 1380(larg)x1300(comp)x150(alt)",
+                  "Conj pés: 1380(larg)x1300(comp)x 2.1 (670) 2.2(570) 2.3(470)",
+                  
+                  "Numero de camaras: 01 a 03 sobrepostas",
+                  
+                  "Mais especificações, entrar em contato com nossa área técnica."         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "ROTATIVO 01 GRAND",
+      "objects":[
+         {
+            "source":"ROTATIVO 01 GRAND",
+            "productText" : "Fornos Rotativos Brasforno linha FMA",
+            "image" : "image/fornos/rotativos/rota-01-grand/FVR  02 grand.png",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "fornos-de-lastro",
+               "rotativos"
+            ],
+            "productCarrousel" : [
+               "image/fornos/rotativos/rota-01-grand/FVR  02 grand.png"
+            ],
+            "description": [
+               "Modelo:",
+               "ROTA 01 GRAND – Gás/elétrico para 02 carros 60x80 ou ESPECIAIS para pão forma",
+               "Fornos revestidos em aço inoxidável Interna e Externamente",
+               "Fornos robustos, construídos com chapas reforçadas",
+               "Isolamento térmico através de lã de rocha de alta densidade",
+               "Vaporização constante através de bicos de injeção jogando direto na turbina espalhando vapor uniforme e continuo",
+               "PAINEL DE COMANDO INTELIGENTE, MANTEM A TEMPERATURA CONSTANTE SEM PERDA DE CALOR",
+               "SISTEMA DE AQUECIMENTO NO FORNO A GÁS COM QUEIMA DIRETA, MUITO MAIS ECONOMICO",
+               "SISTEMA DE AQUECIMENTO NO FORNO ELÉTRICO ATRAVES DE RESISTENCIAS BLINDADAS EM AÇO INCOLOI."         
+            ],
+            "specification" : [
+                  ""         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "ROTATIVO 01 MEDIO",
+      "objects":[
+         {
+            "source":"ROTATIVO 01 MÉDIO",
+            "productText" : "Fornos Rotativos Brasforno linha FMA",
+            "image" : "image/fornos/rotativos/rota-01-medio/FVR  02 medio.png",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "rotativos",
+               "rota medio"
+            ],
+            "productCarrousel" : [
+               "image/fornos/rotativos/rota-01-medio/FVR  02 medio.png"
+            ],
+            "description": [
+               "Modelo:",
+               "ROTA 01 MÉDIO – Gás/elétrico para 01 carro 60x80 ou maior para pão forma",
+               "Fornos revestidos em aço inoxidável Interna e Externamente",
+               "Fornos robustos, construídos com chapas reforçadas",
+               "Isolamento térmico através de lã de rocha de alta densidade",
+               "Vaporização constante através de bicos de injeção jogando direto na turbina espalhando vapor uniforme e continuo",
+               "PAINEL DE COMANDO INTELIGENTE, MANTEM A TEMPERATURA CONSTANTE SEM PERDA DE CALOR",
+               "SISTEMA DE AQUECIMENTO NO FORNO A GÁS COM QUEIMA DIRETA, MUITO MAIS ECONOMICO",
+               "SISTEMA DE AQUECIMENTO NO FORNO ELÉTRICO ATRAVES DE RESISTENCIAS BLINDADAS EM AÇO INCOLOI."         
+            ],
+            "specification" : [
+                  ""         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "ROTATIVO 01 SMALL",
+      "objects":[
+         {
+            "source":"ROTATIVO 01 SMALL",
+            "productText" : "Fornos Rotativos Brasforno linha FMA",
+            "image" : "image/fornos/rotativos/rota-01-small/FVR 01 small.png",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "rotativos",
+               "rota small"
+            ],
+            "productCarrousel" : [
+               "image/fornos/rotativos/rota-01-small/FVR 01 small.png"
+            ],
+            "description": [
+               "Modelo:",
+               "ROTA 01 SMALL – Gás/elétrico, para 01 carro 60x80",
+               "Fornos revestidos em aço inoxidável Interna e Externamente",
+               "Fornos robustos, construídos com chapas reforçadas",
+               "Isolamento térmico através de lã de rocha de alta densidade",
+               "Vaporização constante através de bicos de injeção jogando direto na turbina espalhando vapor uniforme e continuo",
+               "PAINEL DE COMANDO INTELIGENTE, MANTEM A TEMPERATURA CONSTANTE SEM PERDA DE CALOR",
+               "SISTEMA DE AQUECIMENTO NO FORNO A GÁS COM QUEIMA DIRETA, MUITO MAIS ECONOMICO",
+               "SISTEMA DE AQUECIMENTO NO FORNO ELÉTRICO ATRAVES DE RESISTENCIAS BLINDADAS EM AÇO INCOLOI."         
+            ],
+            "specification" : [
+                  ""         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "Amassadeiras Evo-x",
+      "objects":[
+         {
+            "source":"AMASSADEIRA EVO-X",
+            "productText" : "Linha Amassadeiras espirais",
+            "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x/AMR 15-25 EVO X BOTAO.png",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "rotativos",
+               "rota small"
+            ],
+            "productCarrousel" : [
+               "image/maquinas/amassadeiras/amassadeiras-evo-x/AMR 15-25 EVO X BOTAO.png",
+               "image/maquinas/amassadeiras/amassadeiras-evo-x/AMR 15-25 EVO X INV.png"
+            ],
+            "description": [
+               "DE 25Kgs A 50kgs DE FARINHA ATÉ 80 Kgs DE MASSA",
+               "AMASSADEIRAS COM 01 MOTOR",
+               "ROBUSTAS COM BAIXO RUIDO",
+               "ESTILO E DESIGN ERGONOMICO",
+               "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
+               "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL",
+               
+               "PAINEL FRONTAL STANDART COM BOTÕES (SÉRIE)",
+               
+               "PAINEL FRONTAL DIGITAL EM LED (OPCIONAL), MUDANÇA VEL AUTOMATICA, COM PAINEL ANALOGICO LATERAL",
+               
+               "ALIMENTAÇÃO ELÉTRICA EM 220v E 380V TRIFASICO, 220 MON (OPCIONAL)",
+               
+               "ATENDE A NR12"         
+            ],
+            "specification" : [
+                  "CONSULTAR A LÂMINA"         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "Amassadeira Evo-x Plus",
+      "objects":[
+         {
+            "source":"AMASSADEIRA EVO-X PLUS",
+            "productText" : "Linha Amassadeiras espirais dupla motorização",
+            "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/AMR 50 digital EVO X.png",
+            "breadcrumb" : [
+               "home",
+               "maquinas",
+               "amassadeiras",
+               "amassadeiras evo-x plus"
+            ],
+            "productCarrousel" : [
+               "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/AMR 50 BOTAO EVO X.png",
+               "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/AMR 50 digital EVO X.png",
+               "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/AMR 50 IHM EVO X.png"
+            ],
+            "description": [
+              "FABRICADA NOS MODELOS:",
+              "DE 25Kgs A 75kgs DE FARINHA ATÉ 120 Kgs DE MASSA",
+              "AMASSADEIRAS COM 02 MOTORES REFORÇADAS",
+              "ROBUSTAS COM BAIXO RUIDO",
+              "ESTILO E DESIGN ERGONOMICO",
+              "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
+              "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL ( SÉRIE)",
+              
+              "ESTRUTURA MONTADA EM AÇO INOXÍDAVEL AISI304",
+              
+              "PAINEL FRONTAL DIGITAL EM LED (SÉRIE), MUDANÇA VEL AUTOMATICA, COM PAINEL ANALOGICO LATERAL",
+              
+              "PAINEL FRONTAL TOUCH SCREEN COM RECEITAS (OPCIONAL)",
+              
+              "ALIMENTAÇÃO ELÉTRICA EM 220v E 380V TRIFASICO, 220 MON (OPCIONAL, 25KGS)",
+              
+              "ATENDE A NR12"         
+            ],
+            "specification" : [
+                  "CONSULTAR A LÂMINA"         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "Batedeira Evo-x Evo-x",
+      "objects":[
+         {
+            "source":"BATEDEIRA EVO-X EVO-X",
+            "productText" : "",
+            "image" : "image/maquinas/batedeiras/batedeira evo-x evo-x/BAT EVO X 20.png",
+            "breadcrumb" : [
+               "home",
+               "maquinas",
+               "amassadeiras",
+               "amassadeiras evo-x plus"
+            ],
+            "productCarrousel" : [
+               "image/maquinas/batedeiras/batedeira evo-x evo-x/BAT EVO X 20.png"
+            ],
+            "description": [
+              "FABRICADA NOS MODELOS:",
+              "DE 25Kgs A 75kgs DE FARINHA ATÉ 120 Kgs DE MASSA",
+              "AMASSADEIRAS COM 02 MOTORES REFORÇADAS",
+              "ROBUSTAS COM BAIXO RUIDO",
+              "ESTILO E DESIGN ERGONOMICO",
+              "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
+              "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL ( SÉRIE)",
+              
+              "ESTRUTURA MONTADA EM AÇO INOXÍDAVEL AISI304",
+              
+              "PAINEL FRONTAL DIGITAL EM LED (SÉRIE), MUDANÇA VEL AUTOMATICA, COM PAINEL ANALOGICO LATERAL",
+              
+              "PAINEL FRONTAL TOUCH SCREEN COM RECEITAS (OPCIONAL)",
+              
+              "ALIMENTAÇÃO ELÉTRICA EM 220v E 380V TRIFASICO, 220 MON (OPCIONAL, 25KGS)",
+              
+              "ATENDE A NR12"         
+            ],
+            "specification" : [
+                  "CONSULTAR A LÂMINA"         
+            ]
+         }
+      ]
+   },   
+   {  
+      "id": "Linha Batedeiras planetarias EVO-X",
+      "objects":[
+         {
+            "source":"Linha Batedeiras planetárias EVO-X",
+            "productText" : "",
+            "image" : "image/maquinas/batedeiras/batedeira evo-x evo-x/BAT EVO X 20.png",
+            "breadcrumb" : [
+               "home",
+               "maquinas",
+               "batedeiras",
+               "abatedeiras evo-x",
+               "batedeira evo-x evo-x"
+            ],
+            "productCarrousel" : [
+               "image/maquinas/batedeiras/batedeira evo-x evo-x/BAT EVO X 20.png"
+            ],
+            "description": [
+              "ROBUSTAS COM BAIXO RUIDO ",
+              "ESTILO E DESIGN ERGONOMICO",
+              "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
+              "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL",              
+              "PAINEL FRONTAL STANDART COM BOTÕES (SÉRIE)",              
+              "PAINEL FRONTAL COM COMANDO DE TEMPO EM LED ",
+              "MUDANÇA AUTOMATICA DE VELOCIDADE",
+              "PAINEL ALTERNATIVO MANUAL NA LATERAL DO EQUIPTO",
+              "FABRICADA NOS MODELOS DE 20lts a40lts.",
+              "ALIMENTAÇÃO ELÉTRICA EM  220 monofasico com inversor de vel.",              
+              "ATENDE A NR12"         
+            ],
+            "specification" : [
+                  "CONSULTAR A LÂMINA"         
+            ]
+         }
+      ]
+   },   
+   {  
+      "id": "Linha Cilindros Sovadores 500 e 600mm",
+      "objects":[
+         {
+            "source":"Linha Cilindros Sovadores 500 e 600mm",
+            "productText" : "",
+            "image" : "image/maquinas/cilindros/CILINDRO 600- 540.png",
+            "breadcrumb" : [
+               "home",
+               "maquinas",
+               "cilindros"
+            ],
+            "productCarrousel" : [
+               "image/maquinas/cilindros/CILINDRO 600- 540.png"
+            ],
+            "description": [
+              "CILINDROS COM ROLOS EM AÇO INOX AISI304 ROBUSTOS COM BAIXO RUÍDO",
+
+              "ESTILO E DESIGN ERGONOMICO",
+              "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
+              "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL",
+              "E OU  INOX AISI304 JATEADO DE SÉRIE",
+              "PAINEL FRONTAL COM ACIONAMENTO ATRAVES DE BOTÕES",
+              "FABRICADO NOS MODELOS DE 500 ( ATÉ 10Kgs) E 600MM ( ATÉ 14 Kgs)",
+              "ALIMENTAÇÃO ELÉTRICA EM 220V E 380V TRIFASICO.",
+              
+              "ATENDE A NR12"         
+            ],
+            "specification" : [
+                  "CONSULTAR A LÂMINA"         
+            ]
+         }
+      ]
+   },   
+   {  
+      "id": "Linha de Modeladoras para paes",
+      "objects":[
+         {
+            "source":"Linha de Modeladoras para pães",
+            "productText" : "",
+            "image" : "image/maquinas/modeladora/MODELADORA.png",
+            "breadcrumb" : [
+               "home",
+               "maquinas",
+               "modeladora"
+            ],
+            "productCarrousel" : [
+               "image/maquinas/modeladora/MODELADORA.png"
+            ],
+            "description": [
+              "MODELADORAS COM CILINDROS EM ROLOS DE AÇO INOX AISI304 ROBUSTOS COM BAIXO RUIDO",
+
+              "ESTILO E DESIGN ERGONOMICO",
+              "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
+              "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL",
+              "E OU  INOX AISI304 JATEADO DE SÉRIE",
+              "PAINEL FRONTAL COM ACIONAMENTO ATRAVES DE BOTÕES",
+              "REGULAGEM ABERTURA MANUAL",
+              "FABRICADA NO MODELO DE 500 LARGURA ",
+              "ALIMENTAÇÃO ELÉTRICA EM , 220V E 380V TRIFASICO.",
+              
+              "ATENDE A NR12"         
+            ],
+            "specification" : [
+                  "CONSULTAR LÂMINAS"         
+            ]
+         }
+      ]
+   },
+   {  
+      "id": "Linha de Modeladoras para paes",
+      "objects":[
+         {
+            "source":"Linha de Modeladoras para pães",
+            "productText" : "",
+            "image" : "image/maquinas/modeladora/MODELADORA.png",
+            "breadcrumb" : [
+               "home",
+               "maquinas",
+               "modeladora"
+            ],
+            "productCarrousel" : [
+               "image/maquinas/modeladora/MODELADORA.png"
+            ],
+            "description": [
+              "MODELADORAS COM CILINDROS EM ROLOS DE AÇO INOX AISI304 ROBUSTOS COM BAIXO RUIDO",
+
+              "ESTILO E DESIGN ERGONOMICO",
+              "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
+              "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL",
+              "E OU  INOX AISI304 JATEADO DE SÉRIE",
+              "PAINEL FRONTAL COM ACIONAMENTO ATRAVES DE BOTÕES",
+              "REGULAGEM ABERTURA MANUAL",
+              "FABRICADA NO MODELO DE 500 LARGURA ",
+              "ALIMENTAÇÃO ELÉTRICA EM , 220V E 380V TRIFASICO.",
+              
+              "ATENDE A NR12"         
+            ],
+            "specification" : [
+                  "CONSULTAR LÂMINAS"         
+            ]
+         }
+      ]
+   }
 ]

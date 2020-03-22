@@ -8,18 +8,25 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="../css/bra-app.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bra-app.min.css">
 </head>
 <body class="_bra-product">
 <%- include('partials/header') -%>
 <main> 
-    <section class="_bra-product-banner bg-gray pt4 pb5">            
+    <section class="_bra-product-banner bg-gray pt4 pb4">            
       <div class="_container">
           <% for( var i = 0; i < jData01.objects.length; i++ ) { %>
               <ul class="list ma0 pa0 tl-l tc">
-                  <li><strong class="white f3 ttu"><%= jData01.objects[i].source %></strong></li>
-                  <li><span class="_bra-line center ml0-l mv3 db bg-yellow"></span></li>
+                  <li>
+                    <strong class="white f3 ttu"><%= jData01.objects[i].source %></strong>
+                    <span class="_bra-line center ml0-l mv3 db bg-yellow"></span>
+                  </li>
                   <li><p class="white ma0"><%= jData01.objects[i].productText %></p></li>
+              </ul>
+              <ul class="breadcrumb f7 list flex flex-wrap pa0 mt1 mb0 white">
+                <% for(var i2 = 0; i2 < jData01.objects[i].breadcrumb.length; i2++){ %>
+                  <li class="flex flex-wrap items-center"><p class="pv2 ma0"><%= jData01.objects[i].breadcrumb[i2] %></p></li>
+                <% } %>
               </ul>
           <% } %>  
       </div>            
@@ -27,28 +34,44 @@
     <section class="_bra-product-desc">
       <div class="_container flex flex-wrap-ns flex-column-reverse flex-row-l">
         <% for(var i = 0; i < jData01.objects.length; i++){ %>
-          <div class="w-50-l w-100 pt5-l">
+          <div class="w-40-l w-100 pt5-l pb5-l f6">
               <ul>
                 <% for(var i2 = 0; i2 < jData01.objects[i].description.length; i2++){ %>    
-                  <li><%= jData01.objects[i].description[i2] %></li>
+                  <li><p><%= jData01.objects[i].description[i2] %></p></li>
                 <% } %>
               </ul>   
           </div>
-          <div class="w-50-l w-100 _bra-product-image">           
+          <div class="w-60-l w-100 _bra-product-image">           
             <img class="w-100 h-auto" src="<%= jData01.objects[i].image %>" alt="<%= jData01.objects[i].source %>">
           </div>
         <% } %>
       </div>
     </section>
+    <section class="bg-dark-gray">
+      <div class="_container flex flex-wrap flex-row">
+        <div class="w-50-l">
+          <strong class="db white f3 ttu mt5 mb2 pl4">Especificações técnicas</strong>
+          <span class="_bra-line center ml4-l mv3 db bg-yellow"></span>
+          <% for(var i = 0; i < jData01.objects.length; i++){ %>
+            <ul class="list db mt0 mb5 pl4 white f6">
+              <% for(var i2 = 0; i2 < jData01.objects[i].specification.length; i2++){ %>
+                <li><p class="pv2 ma0"><%= jData01.objects[i].specification[i2] %></p></li>
+              <% } %>
+            </ul>
+          <% } %>
+        </div>
+        <div class="w-50-l"></div>
+      </div>
+    </section>
+    <section class="_bra-productCarrousel absolute z-1 w-100">      
+        <% for(var i = 0; i < jData01.objects.length; i++){ %>     
+          <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
+            <img src="<%= jData01.objects[i].productCarrousel[i2] %>">
+          <% } %>
+        <% } %> 
+    </section>
     <section>
       <div class="_container">
-        <div class="_bra-productCarrousel absolute">
-          <% for(var i = 0; i < jData01.objects.length; i++){ %>     
-            <% for(var i2 = 0; i2 < jData01.objects[i].productCarrousel.length; i2++){ %>    
-              <img class="w-100 h-auto" src="<%= jData01.objects[i].productCarrousel[i2] %>">
-            <% } %>
-          <% } %> 
-        </div>
         <nav class="pt5-l pb5-l pt3 pb3">
           <ul class="_bra-productCarrousel-nav pl0">
             <% for(var i = 0; i < jData01.objects.length; i++){ %>     
@@ -64,9 +87,10 @@
     </section>
 </main>
 <%-include('partials/footer') -%>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
-<script src="../javascript/bra-main.js"></script>
-<script src="../javascript/bra-product.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script src="/javascript/bra-lazysizes.min.js"></script>
+<script defer src="javascript/bra-main.min.js"></script>
+<script defer src="javascript/bra-product.min.js"></script>
 </body>
 </html>

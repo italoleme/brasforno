@@ -298,10 +298,17 @@ h3 {
         }
     }
     &-productCarrousel{
+        background: rgba(0, 0, 0, 0.9);
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-self: center;
         overflow: hidden;
         height: 0;
+        position: fixed;
+        top: 0;
         &._active{
-            height: auto;
+            height: 100%;
         }
         &-nav{
             li {
@@ -326,9 +333,80 @@ h3 {
                 }
             }
         }
+        .slick-list {
+            height: 100%;
+            @media (min-width: 960px) {
+                margin: 0 auto;
+                width: auto;
+                height: 500px;
+                img{
+                    height: 500px;
+                    width: auto !important;
+                }
+            }
+        }
+        .slick-arrow {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 443.52 443.52'%3E%3Cdefs/%3E%3Cpath fill='%23FFF' d='M143.492 221.863L336.226 29.129c6.663-6.664 6.663-17.468 0-24.132-6.665-6.662-17.468-6.662-24.132 0l-204.8 204.8c-6.662 6.664-6.662 17.468 0 24.132l204.8 204.8c6.78 6.548 17.584 6.36 24.132-.42 6.387-6.614 6.387-17.099 0-23.712L143.492 221.863z' class='active-path' data-old_color='%23000000' data-original='%23000000'/%3E%3C/svg%3E");
+            border: 0;
+            background-color: unset;
+            cursor: pointer;
+            font-size: 0;
+            padding: 0;
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            background-size: 30px;
+            background-repeat: no-repeat;
+            background-position: center;
+            @media (min-width: 960px) {
+                height: 75px;
+                width: 75px;
+                background-size: 75px;
+            }
+        }
+        .slick-next {
+            right: 0;
+            transform: rotate(-180deg);
+        }
+        .slick-prev {
+            left: 0;
+        }
+        .slick-track {
+            position: relative;
+            top: 50%;
+            margin-top: -150px;
+            @media (min-width: 960px) {
+                top: 0;
+                margin-top: 0;
+                height: 100%;
+            }
+        }
+        .slick-slide{
+            height: 100%;
+            div{
+                display: flex !important;
+                flex-wrap: wrap;
+                justify-content: center;
+                height: 100%;
+            }
+        }
     }
     &-product-banner {
         background-color: #585858;
         background-position-y: top;
+        background-image: url('../image/bra-product-banner.png');
+        background-size: cover;
     }
+    &-close {
+        height: 20px;
+        width: 20px;
+        top: 25px;
+        right: 25px;
+    }
+}
+.breadcrumb li:not(:last-child):after {
+    color: yellow;
+    content: '/';
+    font-weight: bold;
+    margin: 5px;
 }
