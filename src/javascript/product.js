@@ -31,7 +31,7 @@ var brasProduct = {
     aos: function(){
         if($(window).width() > 768){
             AOS.init();
-        });
+        };
     }
 }
 
