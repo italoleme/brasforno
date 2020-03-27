@@ -7,27 +7,28 @@
     <title>Brasforno foi fundada em 1992 - (11) 4705-9555 - R. Rio de Janeiro, 834 - 06530-020 - Chácara do Solar I – (Fazendinha) - Santana de Parnaíba – SP</title>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/css/bra-app.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bra-app.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bra-contact.min.css">
 </head>
 <body class="_bra-contact">
 <%- include('partials/header') -%>
 <main>
     <section>
         <div class="_container flex flex-wrap">
-            <form action="">
-                <p>Nome</p>
-                <input type="text" />
+            <form class="flex flex-wrap flex-column w-100 pv3" action="">
+                <p class="mt0 mb1">Nome</p>
+                <input class="w-100" type="text" />
 
-                <p>E-mail</p>
-                <input type="text" />
+                <p class="mt0 mb1">E-mail</p>
+                <input class="w-100" type="text" />
 
-                <p>Telefone</p>
-                <input type="text" />
+                <p class="mt0 mb1">Telefone</p>
+                <input class="w-100" type="text" />
 
-                <p>Assunto</p>
-                <input type="text" />
+                <p class="mt0 mb1">Assunto</p>
+                <input class="w-100" type="text" />
 
-                <p>Como nos conheceu?</p>
+                <p class="mt0 mb1">Como nos conheceu?</p>
                 <select name="">                    
                     <option value="Selecione">Selecione</option>
                     <option value="Busca do Google">Busca do Google</option>
@@ -42,8 +43,10 @@
                     <option value="Outros">Outros</option>
                 </select>
 
-                <p>Sua menssagem</p>
-                <template></template>
+                <p class="mt0 mb1">Sua menssagem</p>
+                <textarea></textarea>
+
+                <button>Enviar</button>
             </form>
         </div>
     </section>
