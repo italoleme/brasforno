@@ -1,11 +1,17 @@
 ._bra{
     &-contact {
         margin-top: 70px;
+        @media (min-width: 960px) {
+            margin-top: 0px;
+        }
     }
     &-form{
         overflow: hidden;
+        @media (min-width: 960px) {
+            overflow: unset;
+        }
         input, select{
-            height: 30px;
+            height: 35px;
         }
         textarea {
             resize: none;
@@ -17,7 +23,7 @@
         -webkit-animation: _brashake 0.4s 1 linear;
            -moz-animation: _brashake 0.4s 1 linear;
              -o-animation: _brashake 0.4s 1 linear;
-        input {
+        input, textarea {
             border: 1px solid red;
         }
     }
