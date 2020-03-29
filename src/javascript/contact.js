@@ -5,12 +5,15 @@ var brasContact = {
     form: function(){
         $('._bra-submit').on('click', function(e){
             e.preventDefault();
+            let form = [];
+            
             $(this).parent().find("._bra-val").each(function(i) {
                  let name = $(this).attr('name'),
                      val = $(this).val();
-         
-                 console.log( 'name ' + name + ' val ' + val );
+                     form.push(name + ' : ' + val);         
              });
+        
+            console.log(JSON.stringify(form))
          });
     }
 }

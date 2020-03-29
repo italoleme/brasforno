@@ -15,36 +15,50 @@
 <main>
     <section>
         <div class="_container ">
-            <form class="_bra-form flex flex-wrap flex-column w-100 pv3" action="" method="POST">
-                <p class="mt0 mb1">Nome</p>
-                <input class="_bra-val w-100 mb4" type="text" name="name" />
+            <h1 class="f3 tc dark-gray ma0 pt4">Mande uma messagem para nós!</h1>
+            <form class="_bra-form flex flex-wrap flex-column w-100 pv3 f6" action="" method="POST">
 
-                <p class="mt0 mb1">E-mail</p>
-                <input class="_bra-val w-100 mb4" type="text" name="email" />
+                <div class="flex flex-wrap flex-column w-100">
+                    <p class="mt0 mb1">Nome</p>
+                    <input class="_bra-val w-100 ph2 mb4 br2 ba b--light-silver" type="text" name="name" />
+                </div>
 
-                <p class="mt0 mb1">Telefone</p>
-                <input class="_bra-val w-100 mb4" type="text" name="tel" />
+                <div class="flex flex-wrap flex-column w-100">
+                    <p class="mt0 mb1">E-mail</p>
+                    <input class="_bra-val w-100 ph2 mb4 br2 ba b--light-silver" type="text" name="email" />
+                </div>
 
-                <p class="mt0 mb1">Assunto</p>
-                <input class="_bra-val w-100 mb4" type="text" name="subject" />
+                <div class="flex flex-wrap flex-column w-100">
+                    <p class="mt0 mb1">Telefone</p>
+                    <input class="_bra-val w-100 ph2 mb4 br2 ba b--light-silver" type="text" name="tel" />
+                </div>
 
-                <p class="mt0 mb1">Como nos conheceu?</p>
-                <select class="_bra-val w-100 mb4" name="know">                    
-                    <option value="Selecione">Selecione</option>
-                    <option value="Busca do Google">Busca do Google</option>
-                    <option value="Email Marketing">Email Marketing</option>
-                    <option value="Outros Buscadores">Outros Buscadores</option>
-                    <option value="Links patrocinados">Links patrocinados</option>
-                    <option value="Outros Anúncios">Outros Anúncios</option>
-                    <option value="Facebook">Facebook</option>
-                    <option value="Twitter">Twitter</option>
-                    <option value="Google+">Google+</option>
-                    <option value="Indicação">Indicação</option>
-                    <option value="Outros">Outros</option>
-                </select>
+                <div class="flex flex-wrap flex-column w-100">
+                    <p class="mt0 mb1">Assunto</p>
+                    <input class="_bra-val w-100 ph2 mb4 br2 ba b--light-silver" type="text" name="subject" />
+                </div>
 
-                <p class="mt0 mb1">Sua menssagem</p>
-                <textarea class="_bra-val w-100 mb3" name="message"></textarea>
+                <div class="flex flex-wrap flex-column w-100">
+                    <p class="mt0 mb1">Como nos conheceu?</p>
+                    <select class="_bra-val w-100 ph2 mb4 br2 ba b--light-silver" name="know">                    
+                        <option value="Selecione">Selecione</option>
+                        <option value="Busca do Google">Busca do Google</option>
+                        <option value="Email Marketing">Email Marketing</option>
+                        <option value="Outros Buscadores">Outros Buscadores</option>
+                        <option value="Links patrocinados">Links patrocinados</option>
+                        <option value="Outros Anúncios">Outros Anúncios</option>
+                        <option value="Facebook">Facebook</option>
+                        <option value="Twitter">Twitter</option>
+                        <option value="Google+">Google+</option>
+                        <option value="Indicação">Indicação</option>
+                        <option value="Outros">Outros</option>
+                    </select>
+                </div>
+
+                <div class="flex flex-wrap flex-column w-100">
+                    <p class="mt0 mb1">Sua menssagem</p>
+                    <textarea class="_bra-val w-100 ph2 pv2 mb3 br3" name="message"></textarea>
+                </div>
 
                 <button class="_bra-submit br3 b--none white f6 ttu ph4 pv3 lh-solid lh-solid bg-dark-blue" type="submit">Enviar</button>
             </form>
