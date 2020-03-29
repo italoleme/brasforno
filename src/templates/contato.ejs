@@ -14,22 +14,22 @@
 <%- include('partials/header') -%>
 <main>
     <section>
-        <div class="_container flex flex-wrap">
-            <form class="flex flex-wrap flex-column w-100 pv3" action="">
+        <div class="_container ">
+            <form class="_bra-form flex flex-wrap flex-column w-100 pv3" action="" method="POST">
                 <p class="mt0 mb1">Nome</p>
-                <input class="w-100" type="text" />
+                <input class="_bra-val w-100 mb4" type="text" name="name" />
 
                 <p class="mt0 mb1">E-mail</p>
-                <input class="w-100" type="text" />
+                <input class="_bra-val w-100 mb4" type="text" name="email" />
 
                 <p class="mt0 mb1">Telefone</p>
-                <input class="w-100" type="text" />
+                <input class="_bra-val w-100 mb4" type="text" name="tel" />
 
                 <p class="mt0 mb1">Assunto</p>
-                <input class="w-100" type="text" />
+                <input class="_bra-val w-100 mb4" type="text" name="subject" />
 
                 <p class="mt0 mb1">Como nos conheceu?</p>
-                <select name="">                    
+                <select class="_bra-val w-100 mb4" name="know">                    
                     <option value="Selecione">Selecione</option>
                     <option value="Busca do Google">Busca do Google</option>
                     <option value="Email Marketing">Email Marketing</option>
@@ -44,9 +44,9 @@
                 </select>
 
                 <p class="mt0 mb1">Sua menssagem</p>
-                <textarea></textarea>
+                <textarea class="_bra-val w-100 mb3" name="message"></textarea>
 
-                <button>Enviar</button>
+                <button class="_bra-submit br3 b--none white f6 ttu ph4 pv3 lh-solid lh-solid bg-dark-blue" type="submit">Enviar</button>
             </form>
         </div>
     </section>
