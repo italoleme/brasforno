@@ -1,14 +1,14 @@
 var brasContact = {
     init: function(){
-        brasContact.form();
+        brasContact.sendGrid();
     },
-    form: function(){
+    sendGrid: function(){
         $('._bra-submit').on('click', function(e){
             e.preventDefault();
-            let form = [];
+            var form = [];
         
             $(this).parent().find("._bra-val").each(function(i) {
-                 let name = $(this).attr('name'),
+                 var name = $(this).attr('name'),
                      val = $(this).val();
                      form.push(name + ' : ' + val);     
                  if($(this).is(':empty')){
