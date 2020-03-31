@@ -5,24 +5,18 @@ var brasContact = {
     sendGrid: function(){
         $('._bra-submit').on('click', function(e){
             e.preventDefault();
-            var form = [];
+            var form = {};
         
             $(this).parent().find("._bra-val").each(function(i) {
-                 var name = $(this).attr('name'),
-                     val = $(this).val();
-                     form.push(name , val)
-             });
+                form[this.name] = $(this).val();        
+            });
+        
+            var obj = {form: form};
+            console.log(obj)
 
-             console.log(form)
-
-            // $.post("https://brasforno.herokuapp.com/sendmail", {
-            //     name:'Italo Leme',
-            //     email:'slemeitalo@gmail.com',
-            //     tel:'36020524',
-            //     know:'SP',
-            //     subject:'Message'
-            // })
-            
+            $.post("https://brasforno.herokuapp.com/sendmail", {
+                obj
+            })
         });
 
         $("._bra-val").on('click', function(){
