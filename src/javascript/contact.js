@@ -10,14 +10,19 @@ var brasContact = {
             $(this).parent().find("._bra-val").each(function(i) {
                  var name = $(this).attr('name'),
                      val = $(this).val();
-                     form.push(name + ' : ' + val);     
-                 if($(this).is(':empty')){
-                    $(this).parent().addClass('_bra-error')
-                 }
+                     form.push(name + ' : ' + val),  
+                     formObj = JSON.parse(form)
 
              });
-        
-            console.log(JSON.stringify(form))
+
+            $.post("https://brasforno.herokuapp.com/sendmail", {
+                name:'Italo Leme',
+                email:'slemeitalo@gmail.com',
+                tel:'36020524',
+                know:'SP',
+                subject:'Message'
+            })
+            
         });
 
         $("._bra-val").on('click', function(){
