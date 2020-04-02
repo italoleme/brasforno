@@ -8,6 +8,7 @@ bras = {
         bras.bannerPrincipal();
         bras.mobileNav();
         bras.closed();
+        bras.imgNav();
     },
     hover: function() {
         var _isopen = '_is-open';
@@ -30,6 +31,13 @@ bras = {
             }
         });
            
+    },
+    imgNav: function(){
+        $('._bra-link').hover(function(){
+            var dataImg = $(this).attr('data-img');
+            $(this).parents('._container').find('picture').find('.img-responsive').attr('src', dataImg);
+            $(this).parents('._container').find('picture').find('source').attr('srcset', dataImg);
+        });        
     },
     bannerPrincipal: function(){
         $('._bra-banner-principal').slick({

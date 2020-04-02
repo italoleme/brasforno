@@ -14,9 +14,9 @@ var brasContact = {
             var obj = {form: form};
             console.log(obj)
 
-            $.post("https://brasforno.herokuapp.com/sendmail", {
-                obj
-            })
+            // $.post("https://brasforno.herokuapp.com/sendmail", {
+            //     obj
+            // })
         });
 
         $("._bra-val").on('click', function(){
