@@ -302,7 +302,7 @@
             "source":"AMASSADEIRA EVO-X",
             "productText" : "Linha Amassadeiras espirais",
             "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x/amr-15-25-evo-x-botao.png",
-            "slice" : "amr-evo-x-midia.pdf",
+            "slice" : "image/maquinas/amassadeiras/amassadeiras-evo-x/amr-evo-x-midia.pdf",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -342,7 +342,7 @@
             "source":"AMASSADEIRA EVO-X PLUS",
             "productText" : "Linha Amassadeiras espirais dupla motorização",
             "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/amr-50-botao-evo-x.png",
-            "slice" : "evolution-plus.pdf",
+            "slice" : "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/evolution-plus.pdf",
             "breadcrumb" : [
                "home",
                "maquinas",
@@ -386,7 +386,7 @@
             "source":"BATEDEIRA EVO-X EVO-X",
             "productText" : "",
             "image" : "image/maquinas/batedeiras/batedeira-evo-x-evo-x/bat-evo-x-20.png",
-            "slice" : "bar-evo-x.pdf",
+            "slice" : "image/maquinas/batedeiras/batedeira-evo-x-evo-x/bar-evo-x.pdf",
             "breadcrumb" : [
                "home",
                "maquinas",
