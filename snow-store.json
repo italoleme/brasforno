@@ -6,6 +6,7 @@
            "source":"Pnova",
            "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
            "image" : "image/fornos/fornos-de-lastro/pnova/bpn-4.0-porta-devidro-iso.png",
+           "slice" : "",
            "breadcrumb" : [
               "home",
               "fornos",
@@ -51,6 +52,7 @@
             "source":"Pnova Compact",
             "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
             "image" : "image/fornos/fornos-de-lastro/pnova-compact/BPN 1.3 COMPACT ISO .png",
+            "slice" : "",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -98,6 +100,7 @@
             "source":"Versa Compact Eletrico",
             "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
             "image" : "image/fornos/fornos-de-lastro/versa-eletrico/1.3-iso.png",
+            "slice" : "",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -139,6 +142,7 @@
             "source":"Versa Compact Eletrico",
             "productText" : "Fornos modulares gás com tecnologia AQUECIMENTO PATENTEADO",
             "image" : "image/fornos/fornos-de-lastro/versa-gas/1.3-iso.png",
+            "slice" : "",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -196,6 +200,7 @@
             "source":"ROTATIVO 01 GRAND",
             "productText" : "Fornos Rotativos Brasforno linha FMA",
             "image" : "image/fornos/rotativos/rota-01-grand/fvr-02-grand.png",
+            "slice" : "",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -229,6 +234,7 @@
             "source":"ROTATIVO 01 MÉDIO",
             "productText" : "Fornos Rotativos Brasforno linha FMA",
             "image" : "image/fornos/rotativos/rota-01-medio/fvr-02-medio.png",
+            "slice" : "",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -262,6 +268,7 @@
             "source":"ROTATIVO 01 SMALL",
             "productText" : "Fornos Rotativos Brasforno linha FMA",
             "image" : "image/fornos/rotativos/rota-01-small/fvr-01-small.png",
+            "slice" : "",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -295,6 +302,7 @@
             "source":"AMASSADEIRA EVO-X",
             "productText" : "Linha Amassadeiras espirais",
             "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x/amr-15-25-evo-x-botao.png",
+            "slice" : "amr-evo-x-midia.pdf",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -334,6 +342,7 @@
             "source":"AMASSADEIRA EVO-X PLUS",
             "productText" : "Linha Amassadeiras espirais dupla motorização",
             "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/amr-50-botao-evo-x.png",
+            "slice" : "evolution-plus.pdf",
             "breadcrumb" : [
                "home",
                "maquinas",
@@ -377,6 +386,7 @@
             "source":"BATEDEIRA EVO-X EVO-X",
             "productText" : "",
             "image" : "image/maquinas/batedeiras/batedeira-evo-x-evo-x/bat-evo-x-20.png",
+            "slice" : "bar-evo-x.pdf",
             "breadcrumb" : [
                "home",
                "maquinas",
@@ -418,6 +428,7 @@
             "source":"Linha Batedeiras planetárias EVO-X",
             "productText" : "",
             "image" : "image/maquinas/batedeiras/batedeira-evo-x-evo-x/bat-evo-x-20.png",
+            "slice" : "image/maquinas/batedeiras/batedeira-evo-x-evo-x/bar-evo-x.pdf",
             "breadcrumb" : [
                "home",
                "maquinas",
@@ -453,14 +464,15 @@
          {
             "source":"Linha Cilindros Sovadores 500 e 600mm",
             "productText" : "",
-            "image" : "image/maquinas/cilindros/cilindro-600- 540.png",
+            "image" : "image/maquinas/cilindros/cilindro-600-540.png",
+            "slice" : "image/maquinas/cilindros/cilindro.pdf",
             "breadcrumb" : [
                "home",
                "maquinas",
                "cilindros"
             ],
             "productCarrousel" : [
-               "image/maquinas/cilindros/cilindro-600- 540.png"
+               "image/maquinas/cilindros/cilindro-600-540.png"
             ],
             "description": [
               "CILINDROS COM ROLOS EM AÇO INOX AISI304 ROBUSTOS COM BAIXO RUÍDO",
@@ -488,6 +500,7 @@
             "source":"Linha de Modeladoras para pães",
             "productText" : "",
             "image" : "image/maquinas/modeladora/modeladora.png",
+            "slice" : "image/maquinas/modeladora/modeladora.pdf",
             "breadcrumb" : [
                "home",
                "maquinas",
