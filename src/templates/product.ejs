@@ -42,7 +42,9 @@
                   <li><p><%= jData01.objects[i].description[i2] %></p></li>
                 <% } %>
               </ul>   
-              <a href="<%= jData01.objects[i].slice %>">Download</a>
+              <% if(jData01.objects[i].slice.length > 0){ %>
+              <a class="_bra-pdf b--none db white f7 ttu ph4 pv3 lh-solid lh-solid bg-dark-blue ml3 mr3 mb3 tc no-underline" href="<%= jData01.objects[i].slice %>">Saiba mais</a>
+              <% } %>
           </div>
           <div data-aos="fade-up-left" data-aos-duration="3000" class="w-60-l w-100 _bra-product-image">           
             <img class="w-100 h-auto" src="<%= jData01.objects[i].image %>" alt="<%= jData01.objects[i].source %>">

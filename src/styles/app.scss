@@ -406,6 +406,11 @@ h3 {
             display: block;
         }
     }
+    &-pdf {
+        @media (min-width: 960px) {
+            width: 150px;
+        }
+    }
 }
 .breadcrumb li:not(:last-child):after {
     color: yellow;
