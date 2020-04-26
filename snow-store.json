@@ -41,6 +41,9 @@
                "1240(larg)x2480(comp) x 200(alt) 06assad",               
                "Numero de camaras: 01 a 04 sobrepostas",               
                "Mais especificações, entrar em contato com nossa área técnica."
+           ],
+           "suggestions" : [
+            "Batedeira Evo-x Evo-x"
            ]
         }
      ]
@@ -89,6 +92,11 @@
                   "Conj pés: 1700(larg)x1300(comp)x 2.1 (670) 2.2(570) 2.3(470) 2.4(270)alt",
                   "Numero de camaras: 01 a 04 sobrepostas",            
                   "Mais especificações, entrar em contato com nossa área técnica."         
+            ],
+            "suggestions" : [
+               "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+               "Fornos modulares gás com tecnologia AQUECIMENTO PATENTEADO",
+               "Fornos Rotativos Brasforno linha FMA"
             ]
          }
       ]
@@ -131,6 +139,9 @@
             ],
             "specification" : [
                   ""         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -189,6 +200,9 @@
                   "Numero de camaras: 01 a 03 sobrepostas",
                   
                   "Mais especificações, entrar em contato com nossa área técnica."         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -223,6 +237,9 @@
             ],
             "specification" : [
                   ""         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -257,6 +274,9 @@
             ],
             "specification" : [
                   ""         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -291,6 +311,9 @@
             ],
             "specification" : [
                   ""         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -331,6 +354,9 @@
             ],
             "specification" : [
                   "CONSULTAR A LÂMINA"         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -374,7 +400,10 @@
               "ATENDE A NR12"         
             ],
             "specification" : [
-                  "CONSULTAR A LÂMINA"         
+               "CONSULTAR A LÂMINA"         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -417,6 +446,9 @@
             ],
             "specification" : [
                   "CONSULTAR A LÂMINA"         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -454,6 +486,9 @@
             ],
             "specification" : [
                   "CONSULTAR A LÂMINA"         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -489,6 +524,9 @@
             ],
             "specification" : [
                   "CONSULTAR A LÂMINA"         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
@@ -525,6 +563,9 @@
             ],
             "specification" : [
                   "CONSULTAR LÂMINAS"         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
             ]
          }
       ]

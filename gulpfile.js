@@ -19,10 +19,26 @@ gulp.task('ejs', done => {
     for( var i = 0; i < json01.length; i++ ) {
         var fileName = json01[i].id.replace(/ +/g, '-').toLowerCase();
 
+        var product = json01[i];
+        var suggestions = [];
+
+
+        if(product.suggestions) {
+
+            suggestions = product.suggestions.map(function(id) {
+
+                return json01.find(function(p) {
+                    return p.id === id;
+                });
+
+            });
+
+        }
+
 
         gulp.src('src/templates/**/product.ejs')
             .pipe(ejs({
-                jData01:json01[i], 
+                jData01:json01[i], suggestions:suggestions
             },))
 
             .pipe(rename(fileName + '.html'))
