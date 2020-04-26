@@ -52,6 +52,14 @@
         <% } %>
       </div>
     </section>
+    <section class="_bra-suggestions">
+      <div class="_container">
+        <% for(var is = 0; is < suggestions.length; is++){ %>
+          <%= suggestions[i].objects[0].image %>
+          <%= suggestions[i].objects[0].productText %>
+        <% } %>
+      </div>
+    </section>
     <section class="bg-dark-gray">
       <div class="_container flex flex-wrap flex-row">
         <div data-aos="fade-right" class="w-50-l w-100">
