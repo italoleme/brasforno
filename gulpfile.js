@@ -22,10 +22,13 @@ gulp.task('ejs', done => {
         var product = json01[i];
         var suggestions = [];
 
+        /*console.log('suggestions', product.objects[0].suggestions);*/
 
-        if(product.suggestions) {
+        if(product.objects[0].suggestions) {
 
-            suggestions = product.suggestions.map(function(id) {
+            console.log('suggestions', suggestions);
+
+            suggestions = product.objects[0].suggestions.map(function(id) {
 
                 return json01.find(function(p) {
                     return p.id === id;

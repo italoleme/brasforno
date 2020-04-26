@@ -13,5 +13,8 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.1"
+  },
+  "dependencies": {
+    "gulp-print": "^5.0.2"
   }
 }
