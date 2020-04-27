@@ -3,6 +3,7 @@ var brasProduct = {
         brasProduct.slickNav();
         brasProduct.productCarrousel();
         brasProduct.aos();
+        brasProduct.dataGroup();
     },
     slickNav: function(){
         $('._bra-productCarrousel').not('._bra-close').slick({
@@ -32,6 +33,22 @@ var brasProduct = {
         if($(window).width() > 768){
             AOS.init();
         };
+    },
+    dataGroup: function(){
+        $("[data-group]").each(function() {
+            var t = ($(this).find("[data-target]"),$(this).find("[data-click]")),
+                     a = "active";
+            t.click(function(t) {
+                $("[data-click]").removeClass(a)
+                $("[data-target]").removeClass(a)
+                t.preventDefault();
+                var i = $(this).data("click"),
+                    o = $('[data-target="' + i + '"]');
+                $(this).hasClass(a) ? (o.removeClass(a),
+                $(this).removeClass(a)) : (o.addClass(a),
+                $(this).addClass(a))
+            })
+        })
     }
 }
 

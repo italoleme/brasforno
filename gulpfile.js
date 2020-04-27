@@ -24,17 +24,20 @@ gulp.task('ejs', done => {
 
         /*console.log('suggestions', product.objects[0].suggestions);*/
 
-        if(product.objects[0].suggestions) {
-
-            console.log('suggestions', suggestions);
+        if(product.objects && product.objects[0].suggestions) {
 
             suggestions = product.objects[0].suggestions.map(function(id) {
 
-                return json01.find(function(p) {
+                return json01.find(function(p) {                    
+                    /*console.log('id', id, p);*/
                     return p.id === id;
                 });
 
+            }).filter(function(s) {
+                return s;
             });
+
+            //console.log('suggestions', suggestions);
 
         }
 

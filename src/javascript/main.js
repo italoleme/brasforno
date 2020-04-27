@@ -9,6 +9,7 @@ bras = {
         bras.mobileNav();
         bras.closed();
         bras.imgNav();
+        bras.dataGroup();
     },
     hover: function() {
         var _isopen = '_is-open';
