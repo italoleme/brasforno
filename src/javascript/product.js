@@ -30,9 +30,7 @@ var brasProduct = {
         })
     },
     aos: function(){
-        if($(window).width() > 768){
-            AOS.init();
-        };
+        AOS.init();
     },
     dataGroup: function(){
         $("[data-group]").each(function() {

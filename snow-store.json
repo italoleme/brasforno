@@ -6,7 +6,7 @@
            "source":"Pnova",
            "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
            "image" : "image/fornos/fornos-de-lastro/pnova/bpn-4.0-porta-devidro-iso.png",
-           "slice" : "",
+           "slice" : "image/fornos/fornos-de-lastro/pnova/lamina-pnova-pani-eletrico-midia-rev2.pdf",
            "breadcrumb" : [
               "home",
               "fornos",
@@ -21,33 +21,47 @@
            ],
            "description": [
                "Fornos modulares elétricos com tecnologia ECO SYSTEM",
-               "* De 01 a 04 câmaras",               
-               "* De 04 a 12 assadeiras, até 60x80",               
-               "* Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",               
-               "* Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",               
-               "* Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",               
-               "* Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",               
-               "*Alta performance de cozimento com baixo consumo de energia",               
-               "* Revestidos externamente em aço inoxidável ( série )",               
+
+               "* De 01 a 04 câmaras",
+               
+               "* De 04 a 12 assadeiras, até 60x80",
+               
+               "* Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",
+               
+               "* Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",
+               
+               "* Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",
+               
+               "* Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",
+               
+               "*Alta performance de cozimento com baixo consumo de energia",
+               
+               "* Revestidos externamente em aço inoxidável ( série )",
+               
                "* Portas em vidro temperado (série), Portas em aço inox (opcional)"
            ],
            "specification" : [
-               "Medidas Externas (mm):",               
-               "Módulo : 1900(larg) x 2300(prof)x 400(alt) – 04 assadeiras",               
-               "Testeira : 1900(larg) x 2300(prof)x 180(alt)",               
-               "Conj pés: 1900(larg) x 2300(prof)x 4.2(570) 4.3(470) 4.4(270)alt",               
-               "Medidas Internas (mm):",               
-               "Módulo: 1240(larg)x1680(comp) x 200(alt) 04assad",               
-               "1240(larg)x2480(comp) x 200(alt) 06assad",               
-               "Numero de camaras: 01 a 04 sobrepostas",               
+               "Medidas Externas (mm):",
+               
+               "Módulo : 1900(larg) x 2300(prof)x 400(alt) – 04 assadeiras",
+               
+               "Testeira : 1900(larg) x 2300(prof)x 180(alt)",
+               
+               "Conj pés: 1900(larg) x 2300(prof)x 4.2(570) 4.3(470) 4.4(270)alt",
+               
+               "Medidas Internas (mm):",
+               
+               "Módulo: 1240(larg)x1680(comp) x 200(alt) 04assad",
+               
+               "1240(larg)x2480(comp) x 200(alt) 06assad",
+               
+               "Numero de camaras: 01 a 04 sobrepostas",
+               
                "Mais especificações, entrar em contato com nossa área técnica."
            ],
            "suggestions" : [
                "Pnova",
-               "Pnova Compact",
-               "Versa Compact Eletrico",
-               "Versa Gas",
-               "ROTATIVO 01 GRAND"
+               "Versa Compact Eletrico"
            ]
         }
      ]
@@ -58,7 +72,7 @@
          {
             "source":"Pnova Compact",
             "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
-            "image" : "image/fornos/fornos-de-lastro/pnova-compact/BPN 1.3 COMPACT ISO .png",
+            "image" : "image/fornos/fornos-de-lastro/pnova-compact/bpn-1.3-compact-iso.png",
             "slice" : "",
             "breadcrumb" : [
                "home",
@@ -67,35 +81,34 @@
                "pnova-compact"
             ],
             "productCarrousel" : [
-               "image/fornos/fornos-de-lastro/pnova-compact/BPN 1.1 COMPACT.png",
-               "image/fornos/fornos-de-lastro/pnova-compact/BPN 1.2 COMPACT.png",
-               "image/fornos/fornos-de-lastro/pnova-compact/BPN 2.1 COMPACT.png",
-               "image/fornos/fornos-de-lastro/pnova-compact/BPN 2.2 COMPACT.png"
+               "image/fornos/fornos-de-lastro/pnova-compact/bpn-1.1-compact.png",
+               "image/fornos/fornos-de-lastro/pnova-compact/bpn-1.2-compact.png",
+               "image/fornos/fornos-de-lastro/pnova-compact/bpn-2.1-compact.png",
+               "image/fornos/fornos-de-lastro/pnova-compact/bpn-2.2-compact.png"
             ],
             "description": [
                   "Fornos modulares elétricos com tecnologia ECO SYSTEM",
-                  "* De 01 a 04 câmaras",               
-                  "* De 04 a 12 assadeiras, até 60x80",               
-                  "* Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",               
-                  "* Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",               
-                  "* Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",               
-                  "* Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",               
-                  "*Alta performance de cozimento com baixo consumo de energia",               
-                  "* Revestidos externamente em aço inoxidável ( série )",               
-                  "* Portas em vidro temperado (série), Portas em aço inox (opcional)"
+                  "* De 01 a 04 câmaras ÉLETRICOS",
+                  "* De 01 a 02 assadeiras, até 60x80",
+                  "* Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",
+                  "* Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",
+                  "* Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",
+                  "*Alta performance de cozimento com baixo consumo de energia",
+                  "* Revestidos externamente em aço inoxidável ( série ), frente exclusiva em aço inoxidável colorizado ( preto padrão) e diversas cores disponíveis.",
+                  "* Portas em vidro temperado (série)"
             ],
             "specification" : [
                   "Medidas Externas (mm):", 
                   "01assad 60x80 ou 02 assad 60x40",
-                  "Módulo : 1280(larg)x880(comp)x400(alt)",
-                  "Testeira : 1280(larg)x880(comp)x150(alt)",
-                  "Conj pés: 1280(larg)x880(comp)x 1.1 (670) 1.2(570) 1.3(470) 1.4(270)alt",
-                  "02assad 60x80 ou 04 assad 60x40",
-                  "Módulo : 1700(larg)x1300(comp)x400(alt)",
-                  "Testeira : 1700(larg)x1300(comp)x150(alt)",
-                  "Conj pés: 1700(larg)x1300(comp)x 2.1 (670) 2.2(570) 2.3(470) 2.4(270)alt",
-                  "Numero de camaras: 01 a 04 sobrepostas",            
-                  "Mais especificações, entrar em contato com nossa área técnica."         
+                  "Módulo : 1111mm (larg)x1045 (comp)x400(alt)",
+                  "Testeira : 1111mm (larg)x1045 (comp)x150(alt)",
+                  "Conj pés: 1111mm (larg)x1045 (comp)x 1.1 (670) 1.2(570) 1.3(470) 1.4(270)alt" ,
+                  "02assad 60x80 ou 04 assad 60x40",    
+                  "Módulo : 1700mm (larg)x1300 (comp)x400(alt)",
+                  "Testeira : 1700mm (larg)x1300 (comp)x150(alt)",
+                  "Conj pés: 1700mm (larg)x1300 (comp)x 2.1 (670) 2.2(570) 2.3(470) 2.4(270)alt",
+                  "Numero de camaras: 01 a 04 sobrepostas",
+                  "Mais especificações, entrar em contato com nossa área técnica."
             ],
             "suggestions" : [
                "Fornos modulares elétricos com tecnologia ECO SYSTEM",
@@ -529,8 +542,7 @@
             "specification" : [
                   "CONSULTAR A LÂMINA"         
             ],
-            "suggestions" : [
-               "Batedeira Evo-x Evo-x"
+            "suggestions" : [               
             ]
          }
       ]
