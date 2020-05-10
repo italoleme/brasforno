@@ -256,7 +256,8 @@
                   ""         
             ],
             "suggestions" : [
-               "Batedeira Evo-x Evo-x"
+               "ROTATIVO 01 MEDIO",  
+               "ROTATIVO 01 SMALL"    
             ]
          }
       ]
@@ -289,11 +290,12 @@
                "SISTEMA DE AQUECIMENTO NO FORNO A GÁS COM QUEIMA DIRETA, MUITO MAIS ECONOMICO",
                "SISTEMA DE AQUECIMENTO NO FORNO ELÉTRICO ATRAVES DE RESISTENCIAS BLINDADAS EM AÇO INCOLOI."         
             ],
-            "specification" : [
-                  ""         
+            "specification" : [   
+               ""   
             ],
-            "suggestions" : [
-               "Batedeira Evo-x Evo-x"
+            "suggestions" : [ 
+               "ROTATIVO 01 SMALL",               
+               "ROTATIVO 01 GRAND"
             ]
          }
       ]
@@ -330,7 +332,8 @@
                   ""         
             ],
             "suggestions" : [
-               "Batedeira Evo-x Evo-x"
+               "ROTATIVO 01 MEDIO",               
+               "ROTATIVO 01 GRAND"
             ]
          }
       ]
@@ -370,7 +373,7 @@
                "ATENDE A NR12"         
             ],
             "specification" : [
-                  "CONSULTAR A LÂMINA"         
+                  "AMASSADEIRA EVO-X PLUS"         
             ],
             "suggestions" : [
                "Batedeira Evo-x Evo-x"
@@ -417,7 +420,7 @@
               "ATENDE A NR12"         
             ],
             "specification" : [
-               "CONSULTAR A LÂMINA"         
+               "AMASSADEIRA EVO-X"         
             ],
             "suggestions" : [
                "Batedeira Evo-x Evo-x"
