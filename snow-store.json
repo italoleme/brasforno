@@ -73,7 +73,7 @@
             "source":"Pnova Compact",
             "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
             "image" : "image/fornos/fornos-de-lastro/pnova-compact/bpn-1.3-compact-iso.png",
-            "slice" : "",
+            "slice" : "image/fornos/fornos-de-lastro/pnova-compact/lamina-pnova-compact-eletrico-midia-rev2.pdf",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -88,13 +88,21 @@
             ],
             "description": [
                   "Fornos modulares elétricos com tecnologia ECO SYSTEM",
+
                   "* De 01 a 04 câmaras ÉLETRICOS",
+                  
                   "* De 01 a 02 assadeiras, até 60x80",
+                  
                   "* Painéis inteligentes Digital (série), Touch Screen (opcional), com sistema ECO SYSTEM",
+                  
                   "* Resistencias com fio niquel cromo 80-20 revestidas em tijolos refretários dentro de tubos no interior da camara",
+                  
                   "* Excelente dupla isolação térmica com lã de fibra cerâmica e lã de rocha",
+                  
                   "*Alta performance de cozimento com baixo consumo de energia",
+                  
                   "* Revestidos externamente em aço inoxidável ( série ), frente exclusiva em aço inoxidável colorizado ( preto padrão) e diversas cores disponíveis.",
+                  
                   "* Portas em vidro temperado (série)"
             ],
             "specification" : [
@@ -111,9 +119,8 @@
                   "Mais especificações, entrar em contato com nossa área técnica."
             ],
             "suggestions" : [
-               "Fornos modulares elétricos com tecnologia ECO SYSTEM",
-               "Fornos modulares gás com tecnologia AQUECIMENTO PATENTEADO",
-               "Fornos Rotativos Brasforno linha FMA"
+               "Pnova",
+               "Versa Compact Eletrico"
             ]
          }
       ]
