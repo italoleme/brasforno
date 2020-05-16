@@ -398,7 +398,7 @@
          {
             "source":"AMASSADEIRA EVO-X PLUS",
             "productText" : "Linha Amassadeiras espirais dupla motorização",
-            "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/amr-50-botao-evo-x.png",
+            "image" : "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/amr-50-ihm-evo-x.png",
             "slice" : "image/maquinas/amassadeiras/amassadeiras-evo-x-plus/evolution-plus.pdf",
             "breadcrumb" : [
                "home",
@@ -457,29 +457,38 @@
                "image/maquinas/batedeiras/batedeira-evo-x-evo-x/bat-evo-x-20.png"
             ],
             "description": [
-              "FABRICADA NOS MODELOS:",
-              "DE 25Kgs A 75kgs DE FARINHA ATÉ 120 Kgs DE MASSA",
-              "AMASSADEIRAS COM 02 MOTORES REFORÇADAS",
+              "EVOLUTION -X",
+
+              "MAQUINAS VERSATEIS PARA CONFEITARIA FIAN E PANIFICAÇÃO EM GERAL",
+              
               "ROBUSTAS COM BAIXO RUIDO",
+              
               "ESTILO E DESIGN ERGONOMICO",
+              
               "ESTRUTURA MONTADA EM AÇO GALVANIZADO",
-              "COM PINTURA EM EPÓXI NA COR CINZA ESPACIAL ( SÉRIE)",
               
-              "ESTRUTURA MONTADA EM AÇO INOXÍDAVEL AISI304",
+              "PINTURA EM EPÓXI NA COR CINZA ESPACIAL",
               
-              "PAINEL FRONTAL DIGITAL EM LED (SÉRIE), MUDANÇA VEL AUTOMATICA, COM PAINEL ANALOGICO LATERAL",
+              "ESTRUTURA AÇO INOX AISI304 ( OPCIONAL)",
               
-              "PAINEL FRONTAL TOUCH SCREEN COM RECEITAS (OPCIONAL)",
+              "PAINEL FRONTAL STANDART COM BOTÕES (SÉRIE)",
               
-              "ALIMENTAÇÃO ELÉTRICA EM 220v E 380V TRIFASICO, 220 MON (OPCIONAL, 25KGS)",
+              "PAINEL FRONTAL COM COMANDO DE TEMPO EM LED",
               
-              "ATENDE A NR12"         
+              "PAINEL FRONTAL TOUCH SCREEN ( opcional ) BAT 40 E 60LTS",
+              
+              "MUDANÇA AUTOMATICA DE VELOCIDADE",
+              
+              "PAINEL ALTERNATIVO MANUAL NA LATERAL DO EQUIPTO",
+              
+              "FABRICADA NOS MODELOS DE 20lts E 40lts.",
+              
+              "ALIMENTAÇÃO ELÉTRICA EM 220 monof."        
             ],
             "specification" : [
                   "CONSULTAR A LÂMINA"         
             ],
             "suggestions" : [
-               "Batedeira Evo-x Evo-x"
             ]
          }
       ]
