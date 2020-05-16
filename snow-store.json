@@ -597,5 +597,92 @@
             ]
          }
       ]
+   },
+   {  
+      "id": "Linha Virtus",
+      "objects":[
+         {
+            "source":"Linha Virtus",
+            "productText" : "Linha Fornos Convecção Turbo",
+            "image" : "image/product/fornos/fornos-conveccao/virtus/default/turbo-t-iso.png",
+            "slice" : "image/product/fornos/fornos-conveccao/virtus/default/virtus-b.pdf",
+            "breadcrumb" : [
+               "home",
+               "fornos",
+               "fornos convecção",
+               "virtus"
+            ],
+            "productCarrousel" : [
+               "image/product/fornos/fornos-conveccao/virtus/default/turbo-t-iso.png"
+            ],
+            "description": [
+              "Fornos turbo Elétrico",
+
+              "Modelos:",
+              
+              "VIRTUS 08 ELETRICO – Forno para 08 assadeiras 58x70 ou 60x80",
+              
+              "VIRTUS 10 ELETRICO – Forno para 10 assadeiras 58x70 ou 60x80",
+              
+              "OS FORNOS TURBO BRASFORNO SÃO INDICADOS PARA PADARIAS, CONFEITARIAS E SALGATERIAS.",
+              
+              "FORNOS ROBUSTOS COM DESIGN INOVADOR, AÇO INOX INTERNO E EXTERNAMENTE.",
+              
+              "PORTA COM VIDRO TEMPERADO DUPLO, PARA MEHOR RETENÇÃO DA TEMPERATURA INTERNA",
+              
+              "ISOLAMENTO TÉRMICO COM MANTA DE FIRA CERAMICA COM ALTA DENSIDADE DE RETENÇÃO CALÓRICA.",
+              
+              "ASSAMENTO INTEGRAL E BEM DISTRIBUIDO ATRAVES DE TURBINA DE ALTA PRECISÃO",
+              
+              "O VAPOR É FORMADO POR INJEÇÃO DIRETA DE AGUA NA TURBINA, VAPORIZAÇÃO IMEDIATA",
+              
+              "RODIZIOS PARA FACIL LOCOMOÇÃO",
+              
+              "RESISTENCIAS BLINDADAS EM AÇO INOX INCOLOI, MAIOR DURABILIDADE",
+              
+              "PANIEL DE COMANDO INTELIGENTE, MANTEM A TEMPERATURA CONSTANTE SEM PERDA DE CALOR",
+              
+              "ALIMENTAÇÃO ELÉTRICA EM 220V E 380V TRIFASICO.",
+              
+              "Fornos turbo GÁS",
+              
+              "Modelos:",
+              
+              "VIRTUS 08 GAS – Forno para 08 assadeiras 58x70 ou 60x80",
+              
+              "VIRTUS 10 GAS – Forno para 10 assadeiras 58x70 ou 60x80",
+              
+              "FORNOS TURBO BRASFORNO SÃO INDICADOS PARA PADARIAS, CONFEITARIAS E SALGATERIAS.",
+              
+              "FORNOS ROBUSTOS COM DESIGN INOVADOR, AÇO INOX INTERNO E EXTERNAMENTE.",
+              
+              "PORTA COM VIDRO TEMPERADO DUPLO, PARA MEHOR RETENÇÃO DA TEMPERATURA INTERNA",
+              
+              "ISOLAMENTO TÉRMICO COM MANTA DE FIRA CERAMICA COM ALTA DENSIDADE DE RETENÇÃO",
+              
+              "CALÓRICA.",
+              
+              "ASSAMENTO INTEGRAL E BEM DISTRIBUIDO ATRAVES DE TURBINA DE ALTA PRECISÃO",
+              
+              "O VAPOR É FORMADO POR INJEÇÃO DIRETA DE AGUA NA TURBINA, VAPORIZAÇÃO IMEDIATA",
+              
+              "RODIZIOS PARA FACIL LOCOMOÇÃO",
+              
+              "SISTEMA DE QUEIMADOR POR FLAUTAS COM TROCADOR DE CALOR, TRABALHA COM GN E GLP",
+              
+              "PAINEL DE COMANDO INTELIGENTE, MANTEM A TEMPERATURA CONSTANTE SEM PERDA DE CALOR",
+              
+              "ALIMENTAÇÃO ELÉTRICA EM 220V MONOF.",
+              
+              "Mais especificações, entrar em contato com nossa área técnica."         
+            ],
+            "specification" : [
+                  "CONSULTAR LÂMINAS"         
+            ],
+            "suggestions" : [
+               "Batedeira Evo-x Evo-x"
+            ]
+         }
+      ]
    }
 ]
