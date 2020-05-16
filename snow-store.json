@@ -61,7 +61,7 @@
            ],
            "suggestions" : [
                "Pnova",
-               "Versa Compact Eletrico"
+               "Versa Gás Multi"
            ]
         }
      ]
@@ -120,19 +120,19 @@
             ],
             "suggestions" : [
                "Pnova",
-               "Versa Compact Eletrico"
+               "Versa Gás Multi"
             ]
          }
       ]
    },
    {  
-      "id": "Versa Compact Eletrico",
+      "id": "Versa Gás Multi",
       "objects":[
          {
-            "source":"Versa Compact Eletrico",
+            "source":"Versa Gás Multi",
             "productText" : "Fornos modulares elétricos com tecnologia ECO SYSTEM",
             "image" : "image/fornos/fornos-de-lastro/versa-eletrico/1.3-iso.png",
-            "slice" : "image/fornos/fornos-de-lastro/versa-eletrico/lamina-versa-midia-ele-rev3.pdf",
+            "slice" : "image/fornos/fornos-de-lastro/versa-eletrico/lamina-versa-midia-gas-rev3.pdf",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -146,44 +146,37 @@
                "image/fornos/fornos-de-lastro/versa-eletrico/2.2.png"
             ],
             "description": [
-               "Fornos modulares elétricos com tecnologia ECO SYSTEM",
-
-               "FORNOS ELETRICOS ALTA TEMPERATURA 400 GRAUS",
-               
-               "* FABRICADOS EM MÓDULOS",
-               
-               "* FORNOS VERSÁTEIS PARA PANIFICAÇÃO,CONFEITARIA, SALGADOS, PIZZAS",
-               
-               "* Desde 01 assadeira de 60x40 a 04 assadeiras de 60x40",
-               
-               "* De 01 a 02 PIZZAS OU 20 A 40 SALGADOS",
-               
-               "* Painéis inteligentes Digital PARA ALTA TEMPERATURA (série), com sistema ECO SYSTEM",
-               
-               "* Resistencias com fio niquel cromo 80-20",
-               
-               "* Excelente dupla isolação térmica com lã de FIBRA cerâmica e lã de rocha",
-               
-               "*Alta performance de cozimento com baixo consumo de energia",
-               
-               "* Revestidos externamente em aço inoxidável ( série ) ,frente exclusiva em aço inoxidável colorizado (preto padrão ),diversas cores",
-               
-               "* Portas em vidro temperado (série)"         
+               "Fornos modulares gás com tecnologia AQUECIMENTO PATENTEADO",
+               "FORNOS A GÁS “ ALTA TEMPERATURA 400 GRAUS”",               
+               "* FABRICADOS EM MÓDULOS",               
+               "* FORNOS VERSÁTEIS PARA PANIFICAÇÃO,CONFEITARIA, SALGADOS, PIZZAS",               
+               "* Desde 01 assadeira de 60x40 a 04 assadeiras de 60x40",               
+               "* De 01 a 02 PIZZAS OU 20 A 40 SALGADOS",               
+               "* Painel inteligente Digital (série)",               
+               "* Sistema de portas com abertura para frente",               
+               "* Vaporização com caldeiras em aço inoxídavel com vaporização sob pressão e constante.",               
+               "* Sistema patenteado de aquecimento através de queimadores no interior das camaras.",               
+               "* Excelente dupla isolação térmica com lã de virdo cerâmica e lã de rocha",               
+               "*Alta performace de cozimento com baixo consumo de energia",               
+               "* Revestidos em aço inoxidável ( série ), frente exclusiva em aço inoxidável ( Preto padrão)",               
+               "diversas cores ( consultar )",               
+               "* Portas em vidro temperado (série)"       
             ],
             "specification" : [
                   "Mais especificações, entrar em contato com nossa área técnica."         
             ],
             "suggestions" : [
-               "Batedeira Evo-x Evo-x"
+               "PNOVA COMPACT",
+               "Versa Gás Multi"
             ]
          }
       ]
    },
    {  
-      "id": "Versa Gas",
+      "id": "Versa Gas Multi",
       "objects":[
          {
-            "source":"Versa Compact Eletrico",
+            "source":"Versa Gás Multi",
             "productText" : "Fornos modulares gás com tecnologia AQUECIMENTO PATENTEADO",
             "image" : "image/fornos/fornos-de-lastro/versa-gas/1.3-iso.png",
             "slice" : "",
@@ -235,8 +228,7 @@
                   "Mais especificações, entrar em contato com nossa área técnica."         
             ],
             "suggestions" : [
-               "PNOVA COMPACT",
-               "VERSA GAS MULTI"
+               "PNOVA COMPACT"
             ]
          }
       ]
