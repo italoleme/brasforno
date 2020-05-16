@@ -265,8 +265,9 @@
                   ""         
             ],
             "suggestions" : [
-               "ROTATIVO 01 MEDIO",  
-               "ROTATIVO 01 SMALL"    
+               "ROTATIVO 01 SMALL",
+               "ROTATIVO 01 MEDIO"
+                  
             ]
          }
       ]
@@ -328,14 +329,15 @@
             ],
             "description": [
                "Modelo:",
-               "ROTA 01 SMALL – Gás/elétrico, para 01 carro 60x80",
-               "Fornos revestidos em aço inoxidável Interna e Externamente",
-               "Fornos robustos, construídos com chapas reforçadas",
-               "Isolamento térmico através de lã de rocha de alta densidade",
-               "Vaporização constante através de bicos de injeção jogando direto na turbina espalhando vapor uniforme e continuo",
-               "PAINEL DE COMANDO INTELIGENTE, MANTEM A TEMPERATURA CONSTANTE SEM PERDA DE CALOR",
-               "SISTEMA DE AQUECIMENTO NO FORNO A GÁS COM QUEIMA DIRETA, MUITO MAIS ECONOMICO",
-               "SISTEMA DE AQUECIMENTO NO FORNO ELÉTRICO ATRAVES DE RESISTENCIAS BLINDADAS EM AÇO INCOLOI."         
+               "ROTA 01 SMALL – Gás/elétrico, para 01 carro 60x80",               
+               "Fornos revestidos em aço inoxidável Interna e Externamente",               
+               "Fornos robustos, construídos com chapas reforçadas",               
+               "Isolamento térmico através de lã de rocha de alta densidade",               
+               "Vaporização constante através de bicos de injeção jogando direto na turbina espalhando vapor uniforme e continuo",               
+               "PAINEL DE COMANDO INTELIGENTE, MANTEM A TEMPERATURA CONSTANTE SEM PERDA DE CALOR",               
+               "SISTEMA DE AQUECIMENTO NO FORNO A GÁS COM QUEIMA DIRETA, MUITO MAIS ECONOMICO",               
+               "SISTEMA DE AQUECIMENTO NO FORNO ELÉTRICO ATRAVES DE RESISTENCIAS BLINDADAS EM AÇO INCOLOI.",               
+               "Mais especificações, entrar em contato com nossa área técnica."         
             ],
             "specification" : [
                   ""         
