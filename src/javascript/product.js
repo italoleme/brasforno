@@ -12,12 +12,19 @@ var brasProduct = {
             arrows: true,
             asNavFor : '._bra-productCarrousel-nav'
         });
-        $('._bra-productCarrousel-nav').slick({
-            slidesToShow: 4,
-            slidesToScroll: 4,
-            asNavFor : '._bra-productCarrousel',
-            focusOnSelect: true
-        });
+
+        $('._bra-productCarrousel-nav').each(function(){
+            if($(this).find('li').length <= 1){
+                $(this).hide()
+            }else{
+                $('._bra-productCarrousel-nav').slick({
+                    slidesToShow: 4,
+                    slidesToScroll: 4,
+                    asNavFor : '._bra-productCarrousel',
+                    focusOnSelect: true
+                });
+            }
+        })
     },
     productCarrousel: function(){        
         $('._bra-productCarrousel-nav li').on('click', function(){
