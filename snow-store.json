@@ -119,7 +119,7 @@
                   "Mais especificações, entrar em contato com nossa área técnica."
             ],
             "suggestions" : [
-               "Pnova Compact",
+               "Pnova",
                "Versa Gas Multi"
             ]
          }
@@ -348,7 +348,7 @@
       ]
    },
    {  
-      "id": "Amassadeiras Evo-x",
+      "id": "Amassadeira Evo-x",
       "objects":[
          {
             "source":"AMASSADEIRA EVO-X",
@@ -382,10 +382,10 @@
                "ATENDE A NR12"         
             ],
             "specification" : [
-                  "AMASSADEIRA EVO-X PLUS"         
+                  "CONSULTAR LAMINA DO PRODUTO"         
             ],
             "suggestions" : [
-               "Batedeira Evo-x Evo-x"
+               "Amassadeira Evo-x Plus"
             ]
          }
       ]
@@ -431,10 +431,10 @@
               "Mais especificações, entrar em contato com nossa área técnica."         
             ],
             "specification" : [
-               "AMASSADEIRA EVO-X"         
+               "CONSULTAR LAMINA DO PRODUTO"         
             ],
             "suggestions" : [
-               "Batedeira Evo-x Evo-x"
+               "Amassadeira Evo-x"
             ]
          }
       ]
