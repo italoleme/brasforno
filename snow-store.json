@@ -776,8 +776,8 @@
          {
             "source":"Linha Virtus",
             "productText" : "Linha Fornos Convecção Turbo",
-            "image" : "image/product/fornos/fornos-conveccao/virtus/default/turbo-t-iso.png",
-            "slice" : "image/product/fornos/fornos-conveccao/virtus/default/virtus-b.pdf",
+            "image" : "image/fornos/fornos-conveccao/virtus/default/turbo-t-iso.png",
+            "slice" : "image/fornos/fornos-conveccao/virtus/default/virtus-b.pdf",
             "breadcrumb" : [
                "home",
                "fornos",
@@ -785,7 +785,7 @@
                "virtus"
             ],
             "productCarrousel" : [
-               "image/product/fornos/fornos-conveccao/virtus/default/turbo-t-iso.png"
+               "image/fornos/fornos-conveccao/virtus/default/turbo-t-iso.png"
             ],
             "description": [
               "Fornos turbo Elétrico",
@@ -852,7 +852,6 @@
                   "CONSULTAR LÂMINAS"         
             ],
             "suggestions" : [
-               "Batedeira Evo-x Evo-x"
             ]
          }
       ]

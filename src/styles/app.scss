@@ -16,9 +16,32 @@ h3 {
     }
 }
 ._bra{
+    &-rhomeo {
+        background-color: #5e2ca5;
+        border-radius: 5px;
+        font-weight: lighter;
+        margin-top: 30px;
+        padding: 12px;     
+        svg {
+            fill: white;
+            height: 18px;
+            margin-left: 5px;
+        }  
+    }
     &-logo{
         fill: white; 
         height: 55px; 
+        &-rhomeo {            
+            @media (min-width: 960px){
+                height: 300px;
+                width: 300px;
+            }
+            display: block;
+            margin: 0 auto;
+            padding-top: 40px;
+            height: 175px;
+            width: 175px;
+        }
         @media (max-width: 960px) {
             height: 35px; 
         }
@@ -131,7 +154,7 @@ h3 {
             }
         }  
         > li{
-            padding: 0 1.4rem;
+            padding: 0 .75rem;
             &:first-child {
                 @media (min-width: 960px) {
                     padding-left: 0;
@@ -141,7 +164,7 @@ h3 {
                 padding-right: 0;
             }
             @media (max-width: 960px) {
-                margin: 10px 0;
+                margin: 8px 0;
             }
         }  
         &-principal {
@@ -317,6 +340,25 @@ h3 {
         @media (min-width: 960px) {
             width: 150px;
         }
+    }
+    &-item-rhomeo{
+        svg {
+            width: 57px;
+            height: 57px;
+        }
+    }
+    &-fma {
+        background-color: #ff6100;
+        border-radius: 5px;
+        font-weight: lighter;
+        margin-top: 30px;
+        padding: 12px;
+    }
+    &-logo-fma {
+        display: block;
+        margin: 0 auto;
+        height: auto;
+        max-width: 300px;
     }
 }
 .breadcrumb li:not(:last-child):after {
